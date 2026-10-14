@@ -6,7 +6,11 @@
       "serverPort": 7777,
       "mobileApkVersion": 181,
       "mobileApkUrl": "https://github.com/KongGithubDev/FightingCity_API/releases/download/apk-fighting-181/FightingCity.apk",
-      "mobileApkSha256": "91efd5e0d94d00070aaf9c476c9071b1c23801b95ee9370214a366e8ea9dcab9"
+      "mobileApkSha256": "91efd5e0d94d00070aaf9c476c9071b1c23801b95ee9370214a366e8ea9dcab9",
+      "mobileManifestUrl": "https://github.com/KongGithubDev/FightingCity_API/releases/download/depot-mobile-Fighting-City-20261014T151141Z/manifest.json",
+      "mobileManifestId": "3dcce16db1d2aa4a42d50b01e2b4718303c83afcb7553b34ddd5205765ddc509",
+      "mobileManifestSha256": "86887820659c8bee277ab9b3f72cab23a1d597d1b2138b741353d2a41958debe",
+      "mobileInstallSize": 1549072460
     }
   ]
 }
