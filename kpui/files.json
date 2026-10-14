@@ -1,0 +1,3716 @@
+{
+ "files": [
+  {
+   "name": "bacara.rcss",
+   "size": 18374,
+   "path": "files/SAMP/kpui/bacara.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8ab14153/bacara.rcss",
+   "hash": "5f3f4e27af98b23489385342d8e05888",
+   "sha256": "67e396c344bb1818bc257b00452f72e025d2f2e5b421a8db137a928415d3a616"
+  },
+  {
+   "name": "bacara.rml",
+   "size": 9036,
+   "path": "files/SAMP/kpui/bacara.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c1874291/bacara.rml",
+   "hash": "66d8865054da62f0fec3adb3dc4908ab",
+   "sha256": "2818c40bea1a1c125bdfa856d5f313c15414d7b185ce8768ecc259ae378fbdb1"
+  },
+  {
+   "name": "bags.rcss",
+   "size": 9405,
+   "path": "files/SAMP/kpui/bags.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c7463cb5/bags.rcss",
+   "hash": "3950550597d4dc37f24d53265c53d8c4",
+   "sha256": "d7fe615f9387a3b213b39c026858c1535758713fe8b8a2dac9dbe81f5506b2ea"
+  },
+  {
+   "name": "bags.rml",
+   "size": 4294,
+   "path": "files/SAMP/kpui/bags.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/01109c1e/bags.rml",
+   "hash": "ecffbe8478dc506f9b364d06b9f7d528",
+   "sha256": "33bb6bfe390c6d14246a706095047532cac89a3cb4a07d73c5e834a18343b98e"
+  },
+  {
+   "name": "carshop.rcss",
+   "size": 14936,
+   "path": "files/SAMP/kpui/carshop.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ebb9d052/carshop.rcss",
+   "hash": "e2e7590096ca82f49e21ed03f69e6c40",
+   "sha256": "a23aa8a60cc35a4d38ea8aba1f5254062617926c6c4b99bd11f64c90308ffb5f"
+  },
+  {
+   "name": "carshop.rml",
+   "size": 8625,
+   "path": "files/SAMP/kpui/carshop.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/aaa33ad2/carshop.rml",
+   "hash": "2a3d527ef800ac005eac752c61eb872e",
+   "sha256": "9e45facbfeda5b548acd76150cf8283cb7056b8ed798264ced683b312f2754e7"
+  },
+  {
+   "name": "craft.rcss",
+   "size": 27940,
+   "path": "files/SAMP/kpui/craft.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/43516620/craft.rcss",
+   "hash": "25078c6a7659b3e799f192fae4e66ab2",
+   "sha256": "36db5d53d89a17cc3737ea348cbc96b2a761089bbb224a5765feeeac3984cc9b"
+  },
+  {
+   "name": "craft.rml",
+   "size": 11289,
+   "path": "files/SAMP/kpui/craft.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/85c5574e/craft.rml",
+   "hash": "a130c427ff4f759a7ce1c5f967fc15ef",
+   "sha256": "96858c095c1e18901a394959d067f273bdf8c684d1c7265112f98dfe9480d8f5"
+  },
+  {
+   "name": "dialog.rcss",
+   "size": 6241,
+   "path": "files/SAMP/kpui/dialog.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/59b39cc2/dialog.rcss",
+   "hash": "441d5f08420edff661dc325810d65665",
+   "sha256": "20f2b7b9ef3442908f8f79bd0878487995c944f96846209ce10e96b40e6d7b08"
+  },
+  {
+   "name": "dialog.rml",
+   "size": 5487,
+   "path": "files/SAMP/kpui/dialog.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2318322b/dialog.rml",
+   "hash": "5d21e78b05ab670c20f6b68ae5b404b5",
+   "sha256": "25b214324899fac43cd02ff16e23197b865b177878397cc2aad03d802335b189"
+  },
+  {
+   "name": "gacha.rcss",
+   "size": 41727,
+   "path": "files/SAMP/kpui/gacha.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/99ab69ca/gacha.rcss",
+   "hash": "a140f81005854c7054af6a88db3478f3",
+   "sha256": "8dd653d439a112d53fd17890ede5d854004e5138373b0b84a0a1f5a9907f8239"
+  },
+  {
+   "name": "gacha.rml",
+   "size": 18065,
+   "path": "files/SAMP/kpui/gacha.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/55e4cd04/gacha.rml",
+   "hash": "7f38b1a1cd617bbfd86cc47ad45726b4",
+   "sha256": "f3edbe7d0866505a7257e7e0047540e86afbf26b9c4bd95270de279c1e39237e"
+  },
+  {
+   "name": "hud.rcss",
+   "size": 39389,
+   "path": "files/SAMP/kpui/hud.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/75f98095/hud.rcss",
+   "hash": "df43fb6b7db1cf4eecb138d03bab1270",
+   "sha256": "a3726c6bacfda8f8a09383d1532f86c887cb935dac4417948de1e84408da7af5"
+  },
+  {
+   "name": "hud.rml",
+   "size": 17286,
+   "path": "files/SAMP/kpui/hud.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d86d3d44/hud.rml",
+   "hash": "f7eade75ad8af42f2f8b6d3d9f4c1da2",
+   "sha256": "f3b564a90729b17d9955c09b23954fef1f82ef18ab5205460fbbb24236625bab"
+  },
+  {
+   "name": "LICENSE.txt",
+   "size": 1281,
+   "path": "files/SAMP/kpui/icons/bags/LICENSE.txt",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/556a64ed/icons/bags/LICENSE.txt",
+   "hash": "c5a63d84062224794ca3960504265204",
+   "sha256": "f9884c4795c3e06671b1676715d10f567b37a623c66fcb188f1af2dacf7cd11a"
+  },
+  {
+   "name": "bag.png",
+   "size": 35169,
+   "path": "files/SAMP/kpui/icons/bags/bag.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/12be2841/icons/bags/bag.png",
+   "hash": "0ba6523246b9bd62da923103ac3a97e1",
+   "sha256": "f4b1256cc163f2102984a34edffd8b3e7b9d833288e838d6f3423695a61953a6"
+  },
+  {
+   "name": "skin.png",
+   "size": 26405,
+   "path": "files/SAMP/kpui/icons/bags/skin.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/314fac5f/icons/bags/skin.png",
+   "hash": "963af5ffa321b63dbe253d0ccbd838a9",
+   "sha256": "e343973ae02fc0cb537413d0ddaf7bd45f41acf22854898321367567909375d7"
+  },
+  {
+   "name": "weapon.png",
+   "size": 32353,
+   "path": "files/SAMP/kpui/icons/bags/weapon.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/537fecfc/icons/bags/weapon.png",
+   "hash": "b8061a5d2e717d369db6ed71a1228494",
+   "sha256": "342d82ff21f3799ae05ef9f6cc33862cd72432063e072ec900c8d58013ea96a0"
+  },
+  {
+   "name": "bike.png",
+   "size": 1586,
+   "path": "files/SAMP/kpui/icons/carshop/bike.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c5d593b3/icons/carshop/bike.png",
+   "hash": "5b86d5daf2414e7f6b11dbe3a23ec7bb",
+   "sha256": "5c6e857a134c10e9aff31a22090a32a62a3eaa1678955bf534dac0b62c652f31"
+  },
+  {
+   "name": "car.png",
+   "size": 1510,
+   "path": "files/SAMP/kpui/icons/carshop/car.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/337664ea/icons/carshop/car.png",
+   "hash": "926c2204902da7747626e5e0eb869604",
+   "sha256": "87b7e1368d419ae401e04a30b5147cf69c8710ee03dc97d0e35909a0ff033447"
+  },
+  {
+   "name": "fuel.png",
+   "size": 1231,
+   "path": "files/SAMP/kpui/icons/carshop/fuel.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d871bef4/icons/carshop/fuel.png",
+   "hash": "cd13d0395679c28f4582ceefa6ebcaab",
+   "sha256": "986b6c33f4e774488939d161f2bddba51a07154a0eba5bf040c013e552702c5d"
+  },
+  {
+   "name": "key.png",
+   "size": 1100,
+   "path": "files/SAMP/kpui/icons/carshop/key.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/aa6337d7/icons/carshop/key.png",
+   "hash": "68fba6da12b2eab5512c66e797a90f90",
+   "sha256": "6ef64335c2ba46ff776c2f8d8a8b8285b0c32d9c5104d48b00533ac3a50bf649"
+  },
+  {
+   "name": "next.png",
+   "size": 741,
+   "path": "files/SAMP/kpui/icons/carshop/next.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3b10110c/icons/carshop/next.png",
+   "hash": "4808271fc8f59374639855890afbdffc",
+   "sha256": "0dc2e3f5c208f000592c8bec2fb3246e88c4f17c9848eb976e210963ec008496"
+  },
+  {
+   "name": "prev.png",
+   "size": 762,
+   "path": "files/SAMP/kpui/icons/carshop/prev.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/04b41157/icons/carshop/prev.png",
+   "hash": "0b38b70487d0af429710ebe583c9500b",
+   "sha256": "ed651c3839aab8210064eece7021bd3069a9c4c136fd9a55aa836570d2eb8e58"
+  },
+  {
+   "name": "sport.png",
+   "size": 1398,
+   "path": "files/SAMP/kpui/icons/carshop/sport.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4074c7da/icons/carshop/sport.png",
+   "hash": "eaeac86cf7138b92cb8087fb7c52b878",
+   "sha256": "d3c6a81b09b80dcf13f76adcc473c6e2a03658305e72accfca6bb1abdab1eb2c"
+  },
+  {
+   "name": "wheel.png",
+   "size": 2276,
+   "path": "files/SAMP/kpui/icons/carshop/wheel.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5cc4bdab/icons/carshop/wheel.png",
+   "hash": "bf2fce94cea8f1a2336f9247e76d5a77",
+   "sha256": "37fc246e75a42c26524e45d413f1cee6a2f05fa2bfe43d11b3282cc4282f25ff"
+  },
+  {
+   "name": "cash.png",
+   "size": 3500,
+   "path": "files/SAMP/kpui/icons/cash.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/92c11288/icons/cash.png",
+   "hash": "15c5c82d52b7572399dbe91ca1c68cdf",
+   "sha256": "16a2a69ae151ee097dadad26bc75fb8e35d7b55f74781a9f2e17a2d39ca1c222"
+  },
+  {
+   "name": "chip.png",
+   "size": 3993,
+   "path": "files/SAMP/kpui/icons/casino/chip.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2122d54b/icons/casino/chip.png",
+   "hash": "f146d72fdf1a81270098e79c46312de0",
+   "sha256": "43d339de3972aff631d55e66f4b60a5a7d67f5fe26dd31290a075f0f96ae8214"
+  },
+  {
+   "name": "club.png",
+   "size": 594,
+   "path": "files/SAMP/kpui/icons/casino/club.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9bffa14f/icons/casino/club.png",
+   "hash": "af1d1ac7a8b7c3dc52e1495250e5b608",
+   "sha256": "361028ca89908e247ea3cbbc985ee12e2f2d0902188ff2a893129fe654a6428b"
+  },
+  {
+   "name": "diamond.png",
+   "size": 594,
+   "path": "files/SAMP/kpui/icons/casino/diamond.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9bffa14f/icons/casino/diamond.png",
+   "hash": "5c0cc4284599feab13e4db6c9c267c8a",
+   "sha256": "eb715e3b4dd9306e0e16a1e7fbc21425688c5983544999d09d9e6a420a1895fa"
+  },
+  {
+   "name": "heart.png",
+   "size": 584,
+   "path": "files/SAMP/kpui/icons/casino/heart.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/eff37fd1/icons/casino/heart.png",
+   "hash": "9fdcb2dd5957bfbe43e79f2b186d1ec0",
+   "sha256": "ffee0385ae48ac1acde81e0da289638e5a4287a7d63a3e7a9044057d5300f74f"
+  },
+  {
+   "name": "spade.png",
+   "size": 603,
+   "path": "files/SAMP/kpui/icons/casino/spade.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5fe8fdfe/icons/casino/spade.png",
+   "hash": "8855aa3eff4deb07093a1951e69844b6",
+   "sha256": "c70e5463b8c788642de1c36277d785805900c9faf6608b05983eaec2e515559c"
+  },
+  {
+   "name": "wheel.png",
+   "size": 3046,
+   "path": "files/SAMP/kpui/icons/casino/wheel.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/755b3320/icons/casino/wheel.png",
+   "hash": "708a3a11fb664b58412053d736e42700",
+   "sha256": "1531c6534be62070d45c694b89e26659d232695a20492aec9483e440a41672d9"
+  },
+  {
+   "name": "coin.png",
+   "size": 8672,
+   "path": "files/SAMP/kpui/icons/coin.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/917a5a4c/icons/coin.png",
+   "hash": "569375052cbcf3f076b140108350978f",
+   "sha256": "fae02b2f5e74218498f2ea2e037d66e18ce4282baca3df4a3e9d71b7daca5d51"
+  },
+  {
+   "name": "glow.png",
+   "size": 6301,
+   "path": "files/SAMP/kpui/icons/fx/glow.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e337e1a2/icons/fx/glow.png",
+   "hash": "f61e9552c93b9db33f7225d6a1b11f62",
+   "sha256": "7cd7aef2c1cc61d96781165b77c49a6f8c805b7f3abb54cc6554064fd5ac9e7f"
+  },
+  {
+   "name": "hammer.png",
+   "size": 499,
+   "path": "files/SAMP/kpui/icons/fx/hammer.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d40b6ec3/icons/fx/hammer.png",
+   "hash": "c6d7380e29128fa86673027ca74c9bf3",
+   "sha256": "24d6af8955bc9158d53b001097ccba0c5998834bb00c38cd64bd41ea8de8d848"
+  },
+  {
+   "name": "puff.png",
+   "size": 12914,
+   "path": "files/SAMP/kpui/icons/fx/puff.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/82d52127/icons/fx/puff.png",
+   "hash": "3f97dbf8889bd367e4cd27178767fd49",
+   "sha256": "8cb932945f948bec31f8e503199b42e64261b55a7383503f1b0340131dd80d9c"
+  },
+  {
+   "name": "spark.png",
+   "size": 900,
+   "path": "files/SAMP/kpui/icons/fx/spark.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/91b26962/icons/fx/spark.png",
+   "hash": "0ada2006e367ee22fddad20496832188",
+   "sha256": "79e80458e153838828f19916ba612f63965348601696217c3e6ecbb5e74282e6"
+  },
+  {
+   "name": "bike.png",
+   "size": 752,
+   "path": "files/SAMP/kpui/icons/gacha/bike.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/af5ef7a1/icons/gacha/bike.png",
+   "hash": "9929df01520ef2a919a52c1961e46ff5",
+   "sha256": "560bdce2a3b4b63b5f772e431c0a8867fff3759490e51a45283421ef8d4f64d2"
+  },
+  {
+   "name": "box_car.png",
+   "size": 9837,
+   "path": "files/SAMP/kpui/icons/gacha/box_car.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ced7848c/icons/gacha/box_car.png",
+   "hash": "7c6398b1d69aa8114d9007fce38b88b4",
+   "sha256": "fb4a23663cf29c3620fb8b4bde25630c887c680213800341c332f7a95092a8bc"
+  },
+  {
+   "name": "box_free.png",
+   "size": 9795,
+   "path": "files/SAMP/kpui/icons/gacha/box_free.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/73cc0ed6/icons/gacha/box_free.png",
+   "hash": "dd302b498fbf2e767c3cc40f332b59b9",
+   "sha256": "1b56e6f2215a1cf2416f3d40698e6961c67b5d60ed2079bc3404faa64f9acf4b"
+  },
+  {
+   "name": "box_fs.png",
+   "size": 9742,
+   "path": "files/SAMP/kpui/icons/gacha/box_fs.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/81702e97/icons/gacha/box_fs.png",
+   "hash": "cec69641040ce65d600eee52f34cce18",
+   "sha256": "c05bd57cf0228d4120236be3a24c12a985181ea78f20598be3768a4c979a286e"
+  },
+  {
+   "name": "box_upg.png",
+   "size": 9712,
+   "path": "files/SAMP/kpui/icons/gacha/box_upg.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0e5d3378/icons/gacha/box_upg.png",
+   "hash": "5f15506255f02b80f676c31f1ba48c9a",
+   "sha256": "2bda9395c411008a280a8051ce4440a838f03128800bdc5c44e6307ee0654bb5"
+  },
+  {
+   "name": "car.png",
+   "size": 741,
+   "path": "files/SAMP/kpui/icons/gacha/car.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/bcb37ad0/icons/gacha/car.png",
+   "hash": "fde62dcfd3961211a82d6383d6b3e175",
+   "sha256": "87acbd2fe521d9e0820221d9904c3d27ff27b3159e68113e6ac871fc0e041dcd"
+  },
+  {
+   "name": "rays.png",
+   "size": 12871,
+   "path": "files/SAMP/kpui/icons/gacha/rays.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a691e326/icons/gacha/rays.png",
+   "hash": "42f97aea110fef5c590803a233cc71b2",
+   "sha256": "349a040138ab2d59d2252b61263f2f08741e36162dba48b294e21cc61f687526"
+  },
+  {
+   "name": "star.png",
+   "size": 698,
+   "path": "files/SAMP/kpui/icons/gacha/star.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/694ca6bb/icons/gacha/star.png",
+   "hash": "b0d249f49aa62296305f034bf5fb8187",
+   "sha256": "2c5f1bfe93e5504dbd28274ead01e11a01b9767d8b386b22ce1a93123ef43216"
+  },
+  {
+   "name": "alert.png",
+   "size": 825,
+   "path": "files/SAMP/kpui/icons/hud/alert.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1aeb1953/icons/hud/alert.png",
+   "hash": "4c35ab1697d97f51587f3a6e452bb71b",
+   "sha256": "586b46085f485928ac9b2926eee21b372bb498d5f2cb6a5893290fe4b435c9e8"
+  },
+  {
+   "name": "armour.png",
+   "size": 1538,
+   "path": "files/SAMP/kpui/icons/hud/armour.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/67962ec7/icons/hud/armour.png",
+   "hash": "4c8b99c29a0a90a25f5f184112663f7d",
+   "sha256": "c9dba8e6c18081ef2a10f256627ec3698368245f97ef56a07a6a1b34d36d8456"
+  },
+  {
+   "name": "burger.png",
+   "size": 2950,
+   "path": "files/SAMP/kpui/icons/hud/burger.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7dd90668/icons/hud/burger.png",
+   "hash": "51ef4ea35915af45c785cb731f3677b9",
+   "sha256": "00a153411c9a50d3bc867387cef09798e6a0169cae82699ee1ba6b0c41fad4f0"
+  },
+  {
+   "name": "car.png",
+   "size": 24589,
+   "path": "files/SAMP/kpui/icons/hud/car.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/cddb2512/icons/hud/car.png",
+   "hash": "f1aa02a7ed7280fccfbef936b268cce4",
+   "sha256": "ee89d02365266390e643f518d10f78b0b7c63a8e1cfcd43ea92c495e82093f02"
+  },
+  {
+   "name": "cross.png",
+   "size": 406,
+   "path": "files/SAMP/kpui/icons/hud/cross.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/764e2d42/icons/hud/cross.png",
+   "hash": "94ed9896498c711ce49da2304f528cca",
+   "sha256": "6fab03a9b0e4f7dab4ad96ed9a991b992637e2c621ed7df64422ddb022d45c87"
+  },
+  {
+   "name": "cup.png",
+   "size": 4490,
+   "path": "files/SAMP/kpui/icons/hud/cup.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5ce130ae/icons/hud/cup.png",
+   "hash": "03de01a80411160c09650c0760c31505",
+   "sha256": "17834748367b64f87fc19cfbaca8b29218c93249932a89995b7b10ff57a26417"
+  },
+  {
+   "name": "drink.png",
+   "size": 5622,
+   "path": "files/SAMP/kpui/icons/hud/drink.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a617e59a/icons/hud/drink.png",
+   "hash": "ec9f7d3cd35518ca5d41d91c1871fcec",
+   "sha256": "81bea4ba9ac184ec158fc9c600fb39f54711b2580adf99df212fbc6c33fd88b3"
+  },
+  {
+   "name": "food.png",
+   "size": 6055,
+   "path": "files/SAMP/kpui/icons/hud/food.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ac7d5a65/icons/hud/food.png",
+   "hash": "e5836e6c3653ed25aabc673e5ce22c82",
+   "sha256": "b7e43b72b067208f3a87b214c2a8546a0f9fe33cf42a169c23e9dea45be082ab"
+  },
+  {
+   "name": "fuel.png",
+   "size": 379,
+   "path": "files/SAMP/kpui/icons/hud/fuel.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/628e52ef/icons/hud/fuel.png",
+   "hash": "c9afe19376bad264a4df2760c305292c",
+   "sha256": "c6584c2ba493f81c41a25e6627b5fb13c01e6af3f8e865f4c824bfa9bdfba094"
+  },
+  {
+   "name": "gear.png",
+   "size": 870,
+   "path": "files/SAMP/kpui/icons/hud/gear.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/510ebc30/icons/hud/gear.png",
+   "hash": "266e253b405c53a645d45278abfb3b1a",
+   "sha256": "6b632db1fd5fc3ab52dda13ffb8ac43d6da8c200ae594b09712fd2a0e40b2614"
+  },
+  {
+   "name": "heart.png",
+   "size": 3370,
+   "path": "files/SAMP/kpui/icons/hud/heart.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1e81b116/icons/hud/heart.png",
+   "hash": "de243020998702b8a1102924e0061309",
+   "sha256": "7a249b4919299c6645ad17d32b741b4e76f4cbe0e5e5421cdc2d7e508859a99e"
+  },
+  {
+   "name": "logo.png",
+   "size": 104915,
+   "path": "files/SAMP/kpui/icons/hud/logo.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5e724506/icons/hud/logo.png",
+   "hash": "7b3f70ca8fe418190161e017df13829f",
+   "sha256": "8bb5521714c3fbb354f2c22a2ee79d61c44c71544d27163b1ee5ae6d109429eb"
+  },
+  {
+   "name": "pin.png",
+   "size": 4710,
+   "path": "files/SAMP/kpui/icons/hud/pin.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d4f7a4df/icons/hud/pin.png",
+   "hash": "ba58e4b12567eda97e20c15c567e552a",
+   "sha256": "7769443b3685829b6debad896d55a7394fea746eb44aeaf5008bdb9dd151c98f"
+  },
+  {
+   "name": "shield.png",
+   "size": 1154,
+   "path": "files/SAMP/kpui/icons/hud/shield.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e9a1b055/icons/hud/shield.png",
+   "hash": "0cf24e1eb0d1673e097cc325ec9335af",
+   "sha256": "33830611349c38e2efb8c19526682f86bddcdd8ce9a764b6c3b8f0973b2e5864"
+  },
+  {
+   "name": "skyline.png",
+   "size": 66601,
+   "path": "files/SAMP/kpui/icons/hud/skyline.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/726171ef/icons/hud/skyline.png",
+   "hash": "ec431201960732f33d1d23db18ea1bbb",
+   "sha256": "e920c8d1cc116bdc600081b94651d35fced6571991da7dda39de39e23a95471d"
+  },
+  {
+   "name": "spanner.png",
+   "size": 480,
+   "path": "files/SAMP/kpui/icons/hud/spanner.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8e9fc29c/icons/hud/spanner.png",
+   "hash": "dced7ddfecbf39077879ddace06e53c8",
+   "sha256": "1ef823b4b2a98d9fdae9e90ad853a091e3c1d7862919d4edd6442f61ab5d3156"
+  },
+  {
+   "name": "target.png",
+   "size": 1052,
+   "path": "files/SAMP/kpui/icons/hud/target.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3903e93b/icons/hud/target.png",
+   "hash": "db8f653e6a363481e7b4e1f50ec38687",
+   "sha256": "05a8040dc92fd59cbca112efbf2ef52890314a021e9eeed96c65154ca6605996"
+  },
+  {
+   "name": "w0.png",
+   "size": 5809,
+   "path": "files/SAMP/kpui/icons/hud/w0.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c9808c60/icons/hud/w0.png",
+   "hash": "3b66b4c824296105fbe2c102623d33be",
+   "sha256": "74401712b8fb4df62044fc1d8a069cc3c7e818e2ce1dd5da740f9e2485f74bb4"
+  },
+  {
+   "name": "w1.png",
+   "size": 1473,
+   "path": "files/SAMP/kpui/icons/hud/w1.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/535a08ed/icons/hud/w1.png",
+   "hash": "a263cbe0f19c0f2a73225dab14df3c22",
+   "sha256": "24bf466eb7cfa5a2c57f296bb033689dcda79d841eb4e6c0b93f627a01587f5f"
+  },
+  {
+   "name": "w10.png",
+   "size": 1222,
+   "path": "files/SAMP/kpui/icons/hud/w10.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c896cf59/icons/hud/w10.png",
+   "hash": "5496b9d2a24fd7947d4095f0fd1c4a77",
+   "sha256": "4546157efea286067c6f6379f92c49fffbc5a4a4d141e8c06182950c0a2e564f"
+  },
+  {
+   "name": "w11.png",
+   "size": 1100,
+   "path": "files/SAMP/kpui/icons/hud/w11.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5837910b/icons/hud/w11.png",
+   "hash": "72fa211b04167d8a2c5e9d1f23db90ad",
+   "sha256": "e8ed3a36a0b17a9642988d4de8f3c0819abab376037acab9fbb9af64a2a6489f"
+  },
+  {
+   "name": "w12.png",
+   "size": 1306,
+   "path": "files/SAMP/kpui/icons/hud/w12.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d292fd7e/icons/hud/w12.png",
+   "hash": "529358644b8de2a1ca0e3f215c06ee34",
+   "sha256": "0ea674615860092140598ca9925061ce54ef51c667a72e9495d63d07fb39323a"
+  },
+  {
+   "name": "w13.png",
+   "size": 1172,
+   "path": "files/SAMP/kpui/icons/hud/w13.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2bc18513/icons/hud/w13.png",
+   "hash": "766e51f8a3d32d15d351f8368190e8df",
+   "sha256": "a86f95df583cb7bf79010e6ce582a87be670a1cc78d5ed86f1c729cdb49ce458"
+  },
+  {
+   "name": "w14.png",
+   "size": 2356,
+   "path": "files/SAMP/kpui/icons/hud/w14.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f6deefc0/icons/hud/w14.png",
+   "hash": "c897997284a7d063458de19dca00e6f9",
+   "sha256": "f5b7cc4731f51754d5c12259c929b12c2821671ecff254dd4d2a553117a9cc01"
+  },
+  {
+   "name": "w15.png",
+   "size": 855,
+   "path": "files/SAMP/kpui/icons/hud/w15.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/01be01a1/icons/hud/w15.png",
+   "hash": "157e667ea5b4732d0397d9c853038f68",
+   "sha256": "5c2228ab36f1c60c010e968b924977946b6b68fcb620343b6337c4481e935b8d"
+  },
+  {
+   "name": "w16.png",
+   "size": 1421,
+   "path": "files/SAMP/kpui/icons/hud/w16.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6ac45879/icons/hud/w16.png",
+   "hash": "4277ecbcdf113a58483c134af5c74981",
+   "sha256": "fc4cee4ab684965f83d9a7a53f56848db175b03c6be6b7368cb9ca7e9c743f9b"
+  },
+  {
+   "name": "w17.png",
+   "size": 1667,
+   "path": "files/SAMP/kpui/icons/hud/w17.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/17373282/icons/hud/w17.png",
+   "hash": "02f2711e2f0addd02a2789ed5211129e",
+   "sha256": "9c42070a54329cabe94463715b5aa99d9e23674be8fdc279b226ba7f33ff7578"
+  },
+  {
+   "name": "w18.png",
+   "size": 1435,
+   "path": "files/SAMP/kpui/icons/hud/w18.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/65783f1b/icons/hud/w18.png",
+   "hash": "02ba7858380a4be4a7b487b40121e8d6",
+   "sha256": "bc2564c2e8f8a4e78085f4448ca4d29a092d2dc4a0a5d1a5582598539b404750"
+  },
+  {
+   "name": "w2.png",
+   "size": 1109,
+   "path": "files/SAMP/kpui/icons/hud/w2.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/bebefc02/icons/hud/w2.png",
+   "hash": "a5507b76a0efad6d43510535e768b8c4",
+   "sha256": "85015bbbbbda2dd04de5cd82a07c02ff3598a283e8ebb1983cdf372a96c8dc4a"
+  },
+  {
+   "name": "w22.png",
+   "size": 1713,
+   "path": "files/SAMP/kpui/icons/hud/w22.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/fd5d2bb0/icons/hud/w22.png",
+   "hash": "43238b8fa278ba1942936f91085bc370",
+   "sha256": "bc71b220c4dcb29aeb7aae2d359805d91ee830b321ab6fe1cab794953917f576"
+  },
+  {
+   "name": "w23.png",
+   "size": 1451,
+   "path": "files/SAMP/kpui/icons/hud/w23.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/53e673e7/icons/hud/w23.png",
+   "hash": "507932bfca562e256a32847c7e1064e3",
+   "sha256": "12508aee4fd46498cea811dfb297411c79383ef4d89389d314a2465dc5ecd93e"
+  },
+  {
+   "name": "w24.png",
+   "size": 1782,
+   "path": "files/SAMP/kpui/icons/hud/w24.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c6bcb787/icons/hud/w24.png",
+   "hash": "bdc346d1d79b77644ba395be3f557ab5",
+   "sha256": "c49190a756e4e82b6e90e660a3ae6d5944332bfe00cce5612e964519391e0552"
+  },
+  {
+   "name": "w25.png",
+   "size": 1454,
+   "path": "files/SAMP/kpui/icons/hud/w25.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9a6dd052/icons/hud/w25.png",
+   "hash": "2653a34d6e30bd6890e405a8dba50209",
+   "sha256": "4bd07685ec1abf12bd1e6f45a6ef73fb84c9b6f7fd85ac8681292bf3d706037e"
+  },
+  {
+   "name": "w26.png",
+   "size": 1376,
+   "path": "files/SAMP/kpui/icons/hud/w26.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/20b69f50/icons/hud/w26.png",
+   "hash": "4ab887e886653913e9493cc2a9474b45",
+   "sha256": "3f23190e21d4b29cec6d4bc07e7832ed68a338462fcb672539e0c7054c2ae53c"
+  },
+  {
+   "name": "w27.png",
+   "size": 1610,
+   "path": "files/SAMP/kpui/icons/hud/w27.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d1e9e4b3/icons/hud/w27.png",
+   "hash": "303f871aa7f99a3afe2f22c1e93f81f3",
+   "sha256": "7ef1a01bb96bf42b31e33cd52ee5b735ed8b29a459e32f549504cd0864f1a21a"
+  },
+  {
+   "name": "w28.png",
+   "size": 1884,
+   "path": "files/SAMP/kpui/icons/hud/w28.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f43d8a8a/icons/hud/w28.png",
+   "hash": "352c0d1a0064c84242dfd46d3cd2336c",
+   "sha256": "a699312bff364d2da28f53464c60040e96ff5f34b31e722f45a576fde4f45fbe"
+  },
+  {
+   "name": "w29.png",
+   "size": 2107,
+   "path": "files/SAMP/kpui/icons/hud/w29.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5982f178/icons/hud/w29.png",
+   "hash": "cd8df30a04fa83a8bac73e732db34d9d",
+   "sha256": "05ede4d16fcdd3853800f2936c4554153f049cfadba1bf13ea68467bb1a728be"
+  },
+  {
+   "name": "w3.png",
+   "size": 1125,
+   "path": "files/SAMP/kpui/icons/hud/w3.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1cd336c2/icons/hud/w3.png",
+   "hash": "c1deaad2e0f802e3f44958c2317ee360",
+   "sha256": "ee01fe7addf9fd7d89e0899a81962c51453578c2942f7485762a3b74e674b1cc"
+  },
+  {
+   "name": "w30.png",
+   "size": 1665,
+   "path": "files/SAMP/kpui/icons/hud/w30.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6a49e5a0/icons/hud/w30.png",
+   "hash": "18e6f6debbc9863e3844233dad784557",
+   "sha256": "e6f7568615dbb6ba3db12dfe8e19a67fd5489904b1bcde523b26baf2122e3e83"
+  },
+  {
+   "name": "w31.png",
+   "size": 1794,
+   "path": "files/SAMP/kpui/icons/hud/w31.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/17c53428/icons/hud/w31.png",
+   "hash": "3f9436e0f56d67eeaa9064f036e0d1c5",
+   "sha256": "ceb0a3ec8a46d4ffcaa38f08c900dff08e340d64cbe811cc88e533c6c5b98643"
+  },
+  {
+   "name": "w32.png",
+   "size": 1813,
+   "path": "files/SAMP/kpui/icons/hud/w32.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/995267ff/icons/hud/w32.png",
+   "hash": "09ff1a85a790575eb1633f0ff462adbc",
+   "sha256": "460e0c3b7a9a2fca8f41b802046c2f7347aa5194700ed4643ace6712844c3776"
+  },
+  {
+   "name": "w33.png",
+   "size": 1359,
+   "path": "files/SAMP/kpui/icons/hud/w33.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e442a153/icons/hud/w33.png",
+   "hash": "81b4e3580f79572a6695a218cafce062",
+   "sha256": "330a19b3d8071f3d3de74d542f1dba4dbc65ed5bcb961ca932b417f635f1f45e"
+  },
+  {
+   "name": "w34.png",
+   "size": 1514,
+   "path": "files/SAMP/kpui/icons/hud/w34.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4e9d73b6/icons/hud/w34.png",
+   "hash": "46c8be0af0c81fc49cc135dc1ce95b0e",
+   "sha256": "d4a45ee24b7232b1b2d5ef222c769866e444840ef2dbb5a53087f97e54942947"
+  },
+  {
+   "name": "w35.png",
+   "size": 1451,
+   "path": "files/SAMP/kpui/icons/hud/w35.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/53e673e7/icons/hud/w35.png",
+   "hash": "f50fdbb5f0fb0f441ba9ac8563f4b5eb",
+   "sha256": "d8e86473675008781bac22b023f878b342acd454b4ac87970e8f9633d6c47511"
+  },
+  {
+   "name": "w36.png",
+   "size": 1851,
+   "path": "files/SAMP/kpui/icons/hud/w36.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2dae3945/icons/hud/w36.png",
+   "hash": "f033909be5f288244c68e8ea6bfb91d8",
+   "sha256": "2ce3bba4bcab2aae08391a687f992220fb3c6b1d451146f6c4778b4f18bf1e8f"
+  },
+  {
+   "name": "w37.png",
+   "size": 1686,
+   "path": "files/SAMP/kpui/icons/hud/w37.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/292d6867/icons/hud/w37.png",
+   "hash": "abeaee11832454873bae0d3f21ad8cfc",
+   "sha256": "c02d9e8d956a5127e37dfa4eb698a60d4bbe30778bd0264f18892a27f5f0fd15"
+  },
+  {
+   "name": "w38.png",
+   "size": 1967,
+   "path": "files/SAMP/kpui/icons/hud/w38.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3bc678b1/icons/hud/w38.png",
+   "hash": "adf5962f01d19eae401fe9ea68892b28",
+   "sha256": "b4fc5e59e90295ce47823f6bfbc513d96dcff7bd7c091491b15c736419139ba6"
+  },
+  {
+   "name": "w39.png",
+   "size": 1960,
+   "path": "files/SAMP/kpui/icons/hud/w39.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/26a4d01e/icons/hud/w39.png",
+   "hash": "27383edc0190b967b80e75447bf6572f",
+   "sha256": "5a241d04fb27caae3378ed632ac2b41911b54f9582861efd89dba286d55219fd"
+  },
+  {
+   "name": "w4.png",
+   "size": 1192,
+   "path": "files/SAMP/kpui/icons/hud/w4.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/78a7125b/icons/hud/w4.png",
+   "hash": "74ca27ce90f56978b723c6148d10e267",
+   "sha256": "50db87eacbab612e2e935ea9e7975eadc5ca92eb9f375e2216b930ef82ff93f0"
+  },
+  {
+   "name": "w40.png",
+   "size": 1618,
+   "path": "files/SAMP/kpui/icons/hud/w40.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/00dc2a61/icons/hud/w40.png",
+   "hash": "e267f103ded06e0dd2de9e63ab59c9eb",
+   "sha256": "132cb86a450e072f886f105bc1955c79f9ab41673dcf1afda7c0df88d25a6370"
+  },
+  {
+   "name": "w41.png",
+   "size": 1618,
+   "path": "files/SAMP/kpui/icons/hud/w41.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/00dc2a61/icons/hud/w41.png",
+   "hash": "b7205aa295629bec614adf4ee78dbc99",
+   "sha256": "0cb3610e9260433742d885cd4eddf7defc84a13f126223256675acd89bba82b9"
+  },
+  {
+   "name": "w42.png",
+   "size": 1586,
+   "path": "files/SAMP/kpui/icons/hud/w42.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/37dd1d01/icons/hud/w42.png",
+   "hash": "8074a6fea94a3a8e8309dea1cb6b500a",
+   "sha256": "c458e802ed263c8845691260e7c5311fdbdf287a7f7219b6f2c34b07fe10a29c"
+  },
+  {
+   "name": "w43.png",
+   "size": 1516,
+   "path": "files/SAMP/kpui/icons/hud/w43.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/834ceaaa/icons/hud/w43.png",
+   "hash": "4c5449247c2b59f3a73435b687467acd",
+   "sha256": "3b37a3d76b99e37931afad66a3e458c0ce3dde11deb3fc61f5286e48ad1b9cb2"
+  },
+  {
+   "name": "w44.png",
+   "size": 1766,
+   "path": "files/SAMP/kpui/icons/hud/w44.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/941e1675/icons/hud/w44.png",
+   "hash": "a87e7103ed8afe12045ddfd010daa5d0",
+   "sha256": "051f2709e922313d9be1486273a1bedbf25a1e034b8672d399a3ac61465eefe3"
+  },
+  {
+   "name": "w45.png",
+   "size": 1766,
+   "path": "files/SAMP/kpui/icons/hud/w45.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/941e1675/icons/hud/w45.png",
+   "hash": "a87e7103ed8afe12045ddfd010daa5d0",
+   "sha256": "051f2709e922313d9be1486273a1bedbf25a1e034b8672d399a3ac61465eefe3"
+  },
+  {
+   "name": "w46.png",
+   "size": 1973,
+   "path": "files/SAMP/kpui/icons/hud/w46.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/020fa5ed/icons/hud/w46.png",
+   "hash": "db67d1d5377cfbe552dc764d7a4cdd8a",
+   "sha256": "e0dd6244755827b9096d466c79283573f007ebc52e11006c9f16e1352af70e1e"
+  },
+  {
+   "name": "w5.png",
+   "size": 1131,
+   "path": "files/SAMP/kpui/icons/hud/w5.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e9d2098a/icons/hud/w5.png",
+   "hash": "b96c94c4dffc819b87d4889eec1bbba6",
+   "sha256": "6cee58692f50e541ac7c3720bed705d52b901a7d3c33fe7edc02c810bce46091"
+  },
+  {
+   "name": "w6.png",
+   "size": 1132,
+   "path": "files/SAMP/kpui/icons/hud/w6.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8347e825/icons/hud/w6.png",
+   "hash": "be104ca5bd5967742d50a44393ab96e5",
+   "sha256": "131d4d62dbbdc1c05771f02ce8538894380105e07a107956fcb3e1950ba160bb"
+  },
+  {
+   "name": "w7.png",
+   "size": 788,
+   "path": "files/SAMP/kpui/icons/hud/w7.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/acf2bf70/icons/hud/w7.png",
+   "hash": "71fbc7780917cf0ed187956a3b87961d",
+   "sha256": "58065559a15f0e574665d70309a2b9b971ebe2b2b79d69d6f8daac7355728c6c"
+  },
+  {
+   "name": "w8.png",
+   "size": 968,
+   "path": "files/SAMP/kpui/icons/hud/w8.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/acdbfb9c/icons/hud/w8.png",
+   "hash": "8a5735fbee568f530e751d19952b8b3a",
+   "sha256": "ddcf1fcad9ca6fab341325ec85a708c7095930b8071a3fe12611fa5d157f5daa"
+  },
+  {
+   "name": "w9.png",
+   "size": 1636,
+   "path": "files/SAMP/kpui/icons/hud/w9.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f2f39097/icons/hud/w9.png",
+   "hash": "c0e5875a50616ea1eaa748857d423c55",
+   "sha256": "aedcefba5f0b1b76478d303f79c9d36c97cdeedf74276edfe4bb7bdf2e323d1d"
+  },
+  {
+   "name": "all.png",
+   "size": 1566,
+   "path": "files/SAMP/kpui/icons/inv/all.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/59ef4bdd/icons/inv/all.png",
+   "hash": "21f7c583656d9cfa52b6b5346d7c94d2",
+   "sha256": "88db105ac5e1546dd86c73fdb585d23e6d9bed8ce5aa8250e65b5af05110153e"
+  },
+  {
+   "name": "bag.png",
+   "size": 1512,
+   "path": "files/SAMP/kpui/icons/inv/bag.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e03b0f56/icons/inv/bag.png",
+   "hash": "04deba51a5724f562bf89d1768ec6830",
+   "sha256": "5130ffe1e2e26372e30c95817bc0d4e64aff5930b263a8ee1a31e85e4662c1f4"
+  },
+  {
+   "name": "cloth.png",
+   "size": 1707,
+   "path": "files/SAMP/kpui/icons/inv/cloth.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1bbe6e74/icons/inv/cloth.png",
+   "hash": "d30ee1b16600a743fce8f395053fbb9f",
+   "sha256": "2248a2924e5231296b4778db5ea2fa97b1044689eafa10a3ae49d5b31628e395"
+  },
+  {
+   "name": "key.png",
+   "size": 2120,
+   "path": "files/SAMP/kpui/icons/inv/key.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f242c0d5/icons/inv/key.png",
+   "hash": "7cbbf6722843f1dae32cd3fcb234435c",
+   "sha256": "28b86210e4c668c3bb296e0164f3f304ce61f30d275b5135b624af88d5f53eb6"
+  },
+  {
+   "name": "money.png",
+   "size": 1157,
+   "path": "files/SAMP/kpui/icons/inv/money.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2dbe056c/icons/inv/money.png",
+   "hash": "4bb7d80c345e042e5e67065ed83b4c4e",
+   "sha256": "f9b56beb312b641c59b98c2076d6b4f5235d670e679c65950b301059a25f6fb0"
+  },
+  {
+   "name": "search.png",
+   "size": 1864,
+   "path": "files/SAMP/kpui/icons/inv/search.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/fd604ea0/icons/inv/search.png",
+   "hash": "4c1ed60d318673dec78137f3304ba9a6",
+   "sha256": "9de0787d9c3f2a34d27035ccb1796659cff0bb944c32bae0c4799d9f70aae343"
+  },
+  {
+   "name": "star.png",
+   "size": 1512,
+   "path": "files/SAMP/kpui/icons/inv/star.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e03b0f56/icons/inv/star.png",
+   "hash": "37b5ba9c577244d6ad3d243dce3cd5cf",
+   "sha256": "a227f2e11d07f0ebb42428a189e4c99672c9c4ab6c6773c8d4dcf5c4d8bad28f"
+  },
+  {
+   "name": "tools.png",
+   "size": 1802,
+   "path": "files/SAMP/kpui/icons/inv/tools.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7f57a1be/icons/inv/tools.png",
+   "hash": "b397dbbd2206fe4160aeb4b336e8e78a",
+   "sha256": "348d6fb2818647a083af1a7d789f02dc5cdaa7627a694c0aa71dd0f21963fd6d"
+  },
+  {
+   "name": "trash.png",
+   "size": 1298,
+   "path": "files/SAMP/kpui/icons/inv/trash.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/41b05420/icons/inv/trash.png",
+   "hash": "8d8a994b860f36a7284dd62c87a60cd2",
+   "sha256": "a22f03231c8ba5927b20e29d7534fa48ba4be96c5c8f4468322659b3865fb803"
+  },
+  {
+   "name": "weapon.png",
+   "size": 1953,
+   "path": "files/SAMP/kpui/icons/inv/weapon.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9fce3739/icons/inv/weapon.png",
+   "hash": "02cb218897c4077163bda9013af01de9",
+   "sha256": "5718a2c2529936ce2f99a25ad3d4eb4a618c607260aa048e56c88f1771b48941"
+  },
+  {
+   "name": "empty.png",
+   "size": 69,
+   "path": "files/SAMP/kpui/icons/items/empty.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0f8336f0/icons/items/empty.png",
+   "hash": "9ffe0a8357cde11daa0f3c5a0dd53292",
+   "sha256": "6fa466e21df6bf014ed03517399a711777f572b1f0be6a561b947790cda9f634"
+  },
+  {
+   "name": "item_0.png",
+   "size": 5106,
+   "path": "files/SAMP/kpui/icons/items/item_0.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/599ae5c2/icons/items/item_0.png",
+   "hash": "a0d6d7f3649627a3a1acb501d98b0731",
+   "sha256": "30e9fcf0a84b81f6e11e2e368b922ba5e87aa45982543c372d7cc32991afb1b3"
+  },
+  {
+   "name": "item_1.png",
+   "size": 1909,
+   "path": "files/SAMP/kpui/icons/items/item_1.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/495445ad/icons/items/item_1.png",
+   "hash": "d68140ea4e091bb43671d51673140126",
+   "sha256": "e8ad427ffeeafd4c0b9f52e30c6c36dd3b88c227deb05835ddfe4bcb815d2f81"
+  },
+  {
+   "name": "item_10.png",
+   "size": 4918,
+   "path": "files/SAMP/kpui/icons/items/item_10.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e3d2f97e/icons/items/item_10.png",
+   "hash": "a257dcb80869eba91e9c580c16370f67",
+   "sha256": "fc60267bd2de29e3430dd0887813fb3787078db54d9513b8d27fb808a33df1f8"
+  },
+  {
+   "name": "item_100.png",
+   "size": 5014,
+   "path": "files/SAMP/kpui/icons/items/item_100.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0c13da9e/icons/items/item_100.png",
+   "hash": "81d6e6bf45ad0d181d2bfe23b30137d4",
+   "sha256": "c17224044ffee14640592783ea76460436b17461cf4090f6c6288f6550ae68f3"
+  },
+  {
+   "name": "item_101.png",
+   "size": 5000,
+   "path": "files/SAMP/kpui/icons/items/item_101.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/03b3ca4c/icons/items/item_101.png",
+   "hash": "95e3d51bfb4f7bf5c696fd6330d2592f",
+   "sha256": "a6a14bfe90c95d32ce01d07b8763e23adac1c4eb517095eec60f839cfc040390"
+  },
+  {
+   "name": "item_102.png",
+   "size": 3370,
+   "path": "files/SAMP/kpui/icons/items/item_102.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/15e119e0/icons/items/item_102.png",
+   "hash": "de243020998702b8a1102924e0061309",
+   "sha256": "7a249b4919299c6645ad17d32b741b4e76f4cbe0e5e5421cdc2d7e508859a99e"
+  },
+  {
+   "name": "item_103.png",
+   "size": 3821,
+   "path": "files/SAMP/kpui/icons/items/item_103.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7c385c32/icons/items/item_103.png",
+   "hash": "17ed2e0813fd853b5b36384814b47492",
+   "sha256": "a83cf051e1a6bf6550788b7dcb7506d03494b595e7ccd9e3e45f9df7cea67f7e"
+  },
+  {
+   "name": "item_104.png",
+   "size": 4315,
+   "path": "files/SAMP/kpui/icons/items/item_104.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e7ed4b25/icons/items/item_104.png",
+   "hash": "69c83cfbd27e3ceae4b86b77076ba8a7",
+   "sha256": "e99238e31e6e437ae1b06223f9785cd368a34b2a9ec5980991efcaea70258016"
+  },
+  {
+   "name": "item_105.png",
+   "size": 4160,
+   "path": "files/SAMP/kpui/icons/items/item_105.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e01d255a/icons/items/item_105.png",
+   "hash": "cac6bf4a1346e4802d9d60266d40041c",
+   "sha256": "94f128f117592185c375751f1cd7584d24fc86298b0b6ee863793939cad64237"
+  },
+  {
+   "name": "item_106.png",
+   "size": 4315,
+   "path": "files/SAMP/kpui/icons/items/item_106.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e7ed4b25/icons/items/item_106.png",
+   "hash": "69c83cfbd27e3ceae4b86b77076ba8a7",
+   "sha256": "e99238e31e6e437ae1b06223f9785cd368a34b2a9ec5980991efcaea70258016"
+  },
+  {
+   "name": "item_107.png",
+   "size": 4247,
+   "path": "files/SAMP/kpui/icons/items/item_107.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/30187749/icons/items/item_107.png",
+   "hash": "5900734d1feb8df910f03ec52d81c191",
+   "sha256": "2fd5e7486559227dd57d0683913cca09887983f01f23bceb4571edc93eb6e5a5"
+  },
+  {
+   "name": "item_108.png",
+   "size": 4782,
+   "path": "files/SAMP/kpui/icons/items/item_108.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2bb78e16/icons/items/item_108.png",
+   "hash": "72ce4cfab55c65508288da3315680d8a",
+   "sha256": "23dce27d2afc28726fb1a04e3a1d10a3e2769f5439e10bc2148aa5b64b4e1a16"
+  },
+  {
+   "name": "item_109.png",
+   "size": 4918,
+   "path": "files/SAMP/kpui/icons/items/item_109.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6a67e415/icons/items/item_109.png",
+   "hash": "a257dcb80869eba91e9c580c16370f67",
+   "sha256": "fc60267bd2de29e3430dd0887813fb3787078db54d9513b8d27fb808a33df1f8"
+  },
+  {
+   "name": "item_11.png",
+   "size": 671,
+   "path": "files/SAMP/kpui/icons/items/item_11.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a91a8afb/icons/items/item_11.png",
+   "hash": "bc93d45e0eb768f3bc58a01c9a7b51da",
+   "sha256": "6c4f82650ae8b31a145c259a67f985620811ebfd7838e420096a71d83c6b4e50"
+  },
+  {
+   "name": "item_110.png",
+   "size": 4523,
+   "path": "files/SAMP/kpui/icons/items/item_110.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1e97924e/icons/items/item_110.png",
+   "hash": "1ccc4880addffbe2c5a3b385b388514f",
+   "sha256": "8c0ab07a00d42a5e3a1068e8c32ca2582ba0c3b6b94d68e1c6950cea864f8293"
+  },
+  {
+   "name": "item_111.png",
+   "size": 4523,
+   "path": "files/SAMP/kpui/icons/items/item_111.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1e97924e/icons/items/item_111.png",
+   "hash": "1ccc4880addffbe2c5a3b385b388514f",
+   "sha256": "8c0ab07a00d42a5e3a1068e8c32ca2582ba0c3b6b94d68e1c6950cea864f8293"
+  },
+  {
+   "name": "item_112.png",
+   "size": 3157,
+   "path": "files/SAMP/kpui/icons/items/item_112.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/12b0afcb/icons/items/item_112.png",
+   "hash": "463bc801f83eab6962ad98fe445468e7",
+   "sha256": "ffe80e819d42f448ab287b533f6187e5b033e52471585ebeebde59fa0282e6e2"
+  },
+  {
+   "name": "item_113.png",
+   "size": 4315,
+   "path": "files/SAMP/kpui/icons/items/item_113.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e7ed4b25/icons/items/item_113.png",
+   "hash": "69c83cfbd27e3ceae4b86b77076ba8a7",
+   "sha256": "e99238e31e6e437ae1b06223f9785cd368a34b2a9ec5980991efcaea70258016"
+  },
+  {
+   "name": "item_114.png",
+   "size": 4918,
+   "path": "files/SAMP/kpui/icons/items/item_114.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6a67e415/icons/items/item_114.png",
+   "hash": "a257dcb80869eba91e9c580c16370f67",
+   "sha256": "fc60267bd2de29e3430dd0887813fb3787078db54d9513b8d27fb808a33df1f8"
+  },
+  {
+   "name": "item_115.png",
+   "size": 5014,
+   "path": "files/SAMP/kpui/icons/items/item_115.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7650c635/icons/items/item_115.png",
+   "hash": "81d6e6bf45ad0d181d2bfe23b30137d4",
+   "sha256": "c17224044ffee14640592783ea76460436b17461cf4090f6c6288f6550ae68f3"
+  },
+  {
+   "name": "item_116.png",
+   "size": 5010,
+   "path": "files/SAMP/kpui/icons/items/item_116.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f792a4a9/icons/items/item_116.png",
+   "hash": "61e9f0f2e6374130ffa6189a51b476ba",
+   "sha256": "3ec1a0a4ff66a1a73dba917c5f602ffb3baff0af66d5f0b91e0a4c5ab8b63c86"
+  },
+  {
+   "name": "item_117.png",
+   "size": 1909,
+   "path": "files/SAMP/kpui/icons/items/item_117.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/67db9622/icons/items/item_117.png",
+   "hash": "d68140ea4e091bb43671d51673140126",
+   "sha256": "e8ad427ffeeafd4c0b9f52e30c6c36dd3b88c227deb05835ddfe4bcb815d2f81"
+  },
+  {
+   "name": "item_118.png",
+   "size": 5641,
+   "path": "files/SAMP/kpui/icons/items/item_118.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c6fade8d/icons/items/item_118.png",
+   "hash": "91bcd8866e6ece27f48110f021a18c86",
+   "sha256": "75c5981e553aca3cde320dc3da7f7647b990c71d7913e3037c676daeb7cae9c5"
+  },
+  {
+   "name": "item_119.png",
+   "size": 4284,
+   "path": "files/SAMP/kpui/icons/items/item_119.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7229313e/icons/items/item_119.png",
+   "hash": "fafb3d3ea962fdef49f8503cfc69ba81",
+   "sha256": "6bf723462706c579143187f37040af71fa47a2909adf7d7b593bc62c6f6606fc"
+  },
+  {
+   "name": "item_12.png",
+   "size": 4523,
+   "path": "files/SAMP/kpui/icons/items/item_12.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1e97924e/icons/items/item_12.png",
+   "hash": "1ccc4880addffbe2c5a3b385b388514f",
+   "sha256": "8c0ab07a00d42a5e3a1068e8c32ca2582ba0c3b6b94d68e1c6950cea864f8293"
+  },
+  {
+   "name": "item_120.png",
+   "size": 4160,
+   "path": "files/SAMP/kpui/icons/items/item_120.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e01d255a/icons/items/item_120.png",
+   "hash": "cac6bf4a1346e4802d9d60266d40041c",
+   "sha256": "94f128f117592185c375751f1cd7584d24fc86298b0b6ee863793939cad64237"
+  },
+  {
+   "name": "item_121.png",
+   "size": 5215,
+   "path": "files/SAMP/kpui/icons/items/item_121.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f4e759cd/icons/items/item_121.png",
+   "hash": "74a9d000b43cd85b85de693c2f6ba439",
+   "sha256": "5938ecd68b474f7a646dae77156f5d9ba211e598d0fbaab9362155730526221f"
+  },
+  {
+   "name": "item_122.png",
+   "size": 2422,
+   "path": "files/SAMP/kpui/icons/items/item_122.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f3f8f007/icons/items/item_122.png",
+   "hash": "41bb662c26c3f491bdde6e3db48a2388",
+   "sha256": "7282c337241e4f7887652fb2cf2e713c4921dae4f4269a4565fc06bc257c3025"
+  },
+  {
+   "name": "item_123.png",
+   "size": 3633,
+   "path": "files/SAMP/kpui/icons/items/item_123.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/fc854b45/icons/items/item_123.png",
+   "hash": "30f163cc63cf9c391e5dcbd5fb23089f",
+   "sha256": "ce5adf896cbb0ce5a9970357bf36c69d847e2042308dbbd4fb801e610bd97e81"
+  },
+  {
+   "name": "item_124.png",
+   "size": 2651,
+   "path": "files/SAMP/kpui/icons/items/item_124.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0c5dc137/icons/items/item_124.png",
+   "hash": "2663e854da675ae0d12c5e6831112182",
+   "sha256": "3545db7891dc2f00aecdc97c531e02980bc030b0f32e97f2f3d0c51047c268ba"
+  },
+  {
+   "name": "item_125.png",
+   "size": 2651,
+   "path": "files/SAMP/kpui/icons/items/item_125.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0c5dc137/icons/items/item_125.png",
+   "hash": "2663e854da675ae0d12c5e6831112182",
+   "sha256": "3545db7891dc2f00aecdc97c531e02980bc030b0f32e97f2f3d0c51047c268ba"
+  },
+  {
+   "name": "item_126.png",
+   "size": 2651,
+   "path": "files/SAMP/kpui/icons/items/item_126.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0c5dc137/icons/items/item_126.png",
+   "hash": "2663e854da675ae0d12c5e6831112182",
+   "sha256": "3545db7891dc2f00aecdc97c531e02980bc030b0f32e97f2f3d0c51047c268ba"
+  },
+  {
+   "name": "item_127.png",
+   "size": 2651,
+   "path": "files/SAMP/kpui/icons/items/item_127.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0c5dc137/icons/items/item_127.png",
+   "hash": "2663e854da675ae0d12c5e6831112182",
+   "sha256": "3545db7891dc2f00aecdc97c531e02980bc030b0f32e97f2f3d0c51047c268ba"
+  },
+  {
+   "name": "item_128.png",
+   "size": 2651,
+   "path": "files/SAMP/kpui/icons/items/item_128.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0c5dc137/icons/items/item_128.png",
+   "hash": "2663e854da675ae0d12c5e6831112182",
+   "sha256": "3545db7891dc2f00aecdc97c531e02980bc030b0f32e97f2f3d0c51047c268ba"
+  },
+  {
+   "name": "item_129.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_129.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/392b5e3d/icons/items/item_129.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_13.png",
+   "size": 2371,
+   "path": "files/SAMP/kpui/icons/items/item_13.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/baa2ba62/icons/items/item_13.png",
+   "hash": "1a040c9a52c8950f1ed095fb0345cc9b",
+   "sha256": "da9b6d157bd346bc41c301e0833686fd6b883872ba8757328717d0f359b2467c"
+  },
+  {
+   "name": "item_130.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_130.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/392b5e3d/icons/items/item_130.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_131.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_131.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/392b5e3d/icons/items/item_131.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_132.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_132.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/392b5e3d/icons/items/item_132.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_133.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_133.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/392b5e3d/icons/items/item_133.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_134.png",
+   "size": 4388,
+   "path": "files/SAMP/kpui/icons/items/item_134.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2ab8ebd5/icons/items/item_134.png",
+   "hash": "cd75fdc4407602b12140b6a7ee0b4308",
+   "sha256": "143d0a95542e04e1abbdc3c8ec1cb1d6507bd5bc48e54533ce7f4dac43fe1fc4"
+  },
+  {
+   "name": "item_135.png",
+   "size": 4388,
+   "path": "files/SAMP/kpui/icons/items/item_135.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a4427ada/icons/items/item_135.png",
+   "hash": "cd75fdc4407602b12140b6a7ee0b4308",
+   "sha256": "143d0a95542e04e1abbdc3c8ec1cb1d6507bd5bc48e54533ce7f4dac43fe1fc4"
+  },
+  {
+   "name": "item_136.png",
+   "size": 4388,
+   "path": "files/SAMP/kpui/icons/items/item_136.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a4427ada/icons/items/item_136.png",
+   "hash": "cd75fdc4407602b12140b6a7ee0b4308",
+   "sha256": "143d0a95542e04e1abbdc3c8ec1cb1d6507bd5bc48e54533ce7f4dac43fe1fc4"
+  },
+  {
+   "name": "item_137.png",
+   "size": 4388,
+   "path": "files/SAMP/kpui/icons/items/item_137.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a4427ada/icons/items/item_137.png",
+   "hash": "cd75fdc4407602b12140b6a7ee0b4308",
+   "sha256": "143d0a95542e04e1abbdc3c8ec1cb1d6507bd5bc48e54533ce7f4dac43fe1fc4"
+  },
+  {
+   "name": "item_138.png",
+   "size": 4388,
+   "path": "files/SAMP/kpui/icons/items/item_138.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a4427ada/icons/items/item_138.png",
+   "hash": "cd75fdc4407602b12140b6a7ee0b4308",
+   "sha256": "143d0a95542e04e1abbdc3c8ec1cb1d6507bd5bc48e54533ce7f4dac43fe1fc4"
+  },
+  {
+   "name": "item_139.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_139.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6e98dec5/icons/items/item_139.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_14.png",
+   "size": 3913,
+   "path": "files/SAMP/kpui/icons/items/item_14.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5aa04f59/icons/items/item_14.png",
+   "hash": "d53889f5e755f29871e98277d2451d80",
+   "sha256": "5a00af7efbc0926e2f2403a65d1e2c92d5d6193cbc03a4df003544137a297bbc"
+  },
+  {
+   "name": "item_140.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_140.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8f895ebd/icons/items/item_140.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_141.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_141.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8f895ebd/icons/items/item_141.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_142.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_142.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8f895ebd/icons/items/item_142.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_143.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_143.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8f895ebd/icons/items/item_143.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_144.png",
+   "size": 4539,
+   "path": "files/SAMP/kpui/icons/items/item_144.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/eeba7479/icons/items/item_144.png",
+   "hash": "b93c147bfcd05e91b1b4d26de25721d3",
+   "sha256": "bbd853f77759275153abf58d5ab8a718772ccf470c6b96eb632152ad6210aaa7"
+  },
+  {
+   "name": "item_145.png",
+   "size": 3706,
+   "path": "files/SAMP/kpui/icons/items/item_145.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3048ae81/icons/items/item_145.png",
+   "hash": "241969ca037ad0ae76cd3f5b634d5328",
+   "sha256": "e909a0633cf815214e8fe41e24968bf80b603ec2d206f285dd4f23bebb459d83"
+  },
+  {
+   "name": "item_146.png",
+   "size": 3593,
+   "path": "files/SAMP/kpui/icons/items/item_146.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/91675632/icons/items/item_146.png",
+   "hash": "720426f33fe983e53ef901ddc35d7363",
+   "sha256": "d7337f0c8d70468c500dac7f1de17e389addc6f7f5e42d73802ac21d3df5ba2b"
+  },
+  {
+   "name": "item_147.png",
+   "size": 2125,
+   "path": "files/SAMP/kpui/icons/items/item_147.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/91524226/icons/items/item_147.png",
+   "hash": "3aa457ad8b2f4b322b5bb4057a28639f",
+   "sha256": "d82e8c84211bdb6d65e6c69cc8a66ec5503daca89cceadcf35195fe6586ac57f"
+  },
+  {
+   "name": "item_148.png",
+   "size": 5336,
+   "path": "files/SAMP/kpui/icons/items/item_148.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/33fcc893/icons/items/item_148.png",
+   "hash": "aa2f57cab4f6fd0a42c29fe8f3490987",
+   "sha256": "568a3e670e5ba6af99c4bce1cee46eea99d3b037737f9fe0c9227a89813d877c"
+  },
+  {
+   "name": "item_149.png",
+   "size": 5336,
+   "path": "files/SAMP/kpui/icons/items/item_149.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/33fcc893/icons/items/item_149.png",
+   "hash": "aa2f57cab4f6fd0a42c29fe8f3490987",
+   "sha256": "568a3e670e5ba6af99c4bce1cee46eea99d3b037737f9fe0c9227a89813d877c"
+  },
+  {
+   "name": "item_15.png",
+   "size": 1835,
+   "path": "files/SAMP/kpui/icons/items/item_15.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4edf5651/icons/items/item_15.png",
+   "hash": "1e179b6331d617c739c6972d8f938a2f",
+   "sha256": "831cd817004220067b3ec161689c3e1eaa014b7157b40bcc2027e5ea7e0713f7"
+  },
+  {
+   "name": "item_150.png",
+   "size": 5010,
+   "path": "files/SAMP/kpui/icons/items/item_150.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e50626b0/icons/items/item_150.png",
+   "hash": "61e9f0f2e6374130ffa6189a51b476ba",
+   "sha256": "3ec1a0a4ff66a1a73dba917c5f602ffb3baff0af66d5f0b91e0a4c5ab8b63c86"
+  },
+  {
+   "name": "item_151.png",
+   "size": 4160,
+   "path": "files/SAMP/kpui/icons/items/item_151.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7e5129ef/icons/items/item_151.png",
+   "hash": "cac6bf4a1346e4802d9d60266d40041c",
+   "sha256": "94f128f117592185c375751f1cd7584d24fc86298b0b6ee863793939cad64237"
+  },
+  {
+   "name": "item_152.png",
+   "size": 4160,
+   "path": "files/SAMP/kpui/icons/items/item_152.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7e5129ef/icons/items/item_152.png",
+   "hash": "cac6bf4a1346e4802d9d60266d40041c",
+   "sha256": "94f128f117592185c375751f1cd7584d24fc86298b0b6ee863793939cad64237"
+  },
+  {
+   "name": "item_153.png",
+   "size": 5014,
+   "path": "files/SAMP/kpui/icons/items/item_153.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5c273fd4/icons/items/item_153.png",
+   "hash": "81d6e6bf45ad0d181d2bfe23b30137d4",
+   "sha256": "c17224044ffee14640592783ea76460436b17461cf4090f6c6288f6550ae68f3"
+  },
+  {
+   "name": "item_154.png",
+   "size": 4862,
+   "path": "files/SAMP/kpui/icons/items/item_154.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1bbe2353/icons/items/item_154.png",
+   "hash": "4f2a7199226311fb2dcdcf7f6e906b6f",
+   "sha256": "f09369cbc83d78f231d5153d0160e923ae11dcf631d811b64576621661cc3f3d"
+  },
+  {
+   "name": "item_155.png",
+   "size": 3042,
+   "path": "files/SAMP/kpui/icons/items/item_155.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e89af878/icons/items/item_155.png",
+   "hash": "7b0f8a2db1f51cac6b36fda31571ce36",
+   "sha256": "d95020309aabda9cad8675a075e21bbc2fa5958649645244270be2cdd280a669"
+  },
+  {
+   "name": "item_156.png",
+   "size": 4932,
+   "path": "files/SAMP/kpui/icons/items/item_156.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5a062d96/icons/items/item_156.png",
+   "hash": "c6ba2d3b5b85e8d443727180942e6916",
+   "sha256": "71676f0cb009507a14d1fe2de5d3c97b8f4cda7e09f5157863f550ebad7ee4ad"
+  },
+  {
+   "name": "item_157.png",
+   "size": 3074,
+   "path": "files/SAMP/kpui/icons/items/item_157.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/109b222d/icons/items/item_157.png",
+   "hash": "b78b706781f776392bf4e46eb988690f",
+   "sha256": "78b242456ce9b6f22a25abf6c0a632e25a216762f46d639d1a851673708fbd2b"
+  },
+  {
+   "name": "item_158.png",
+   "size": 3996,
+   "path": "files/SAMP/kpui/icons/items/item_158.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1551919a/icons/items/item_158.png",
+   "hash": "538300dada7f81f3e127e4cd974d3661",
+   "sha256": "9aa7d69995081cd53a4c203c45ed58e43edc48924fb020271c1445db29c25dd6"
+  },
+  {
+   "name": "item_159.png",
+   "size": 3706,
+   "path": "files/SAMP/kpui/icons/items/item_159.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/da619803/icons/items/item_159.png",
+   "hash": "241969ca037ad0ae76cd3f5b634d5328",
+   "sha256": "e909a0633cf815214e8fe41e24968bf80b603ec2d206f285dd4f23bebb459d83"
+  },
+  {
+   "name": "item_16.png",
+   "size": 2715,
+   "path": "files/SAMP/kpui/icons/items/item_16.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1d54aa46/icons/items/item_16.png",
+   "hash": "917119e8be6ef8375e2fea23d9577bee",
+   "sha256": "3547514b0a319d45d238ac2bb93ad1a85565f1336481c24182d1b6e661e3a3ed"
+  },
+  {
+   "name": "item_160.png",
+   "size": 3706,
+   "path": "files/SAMP/kpui/icons/items/item_160.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/da619803/icons/items/item_160.png",
+   "hash": "241969ca037ad0ae76cd3f5b634d5328",
+   "sha256": "e909a0633cf815214e8fe41e24968bf80b603ec2d206f285dd4f23bebb459d83"
+  },
+  {
+   "name": "item_161.png",
+   "size": 3706,
+   "path": "files/SAMP/kpui/icons/items/item_161.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/da619803/icons/items/item_161.png",
+   "hash": "241969ca037ad0ae76cd3f5b634d5328",
+   "sha256": "e909a0633cf815214e8fe41e24968bf80b603ec2d206f285dd4f23bebb459d83"
+  },
+  {
+   "name": "item_162.png",
+   "size": 3706,
+   "path": "files/SAMP/kpui/icons/items/item_162.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/da619803/icons/items/item_162.png",
+   "hash": "241969ca037ad0ae76cd3f5b634d5328",
+   "sha256": "e909a0633cf815214e8fe41e24968bf80b603ec2d206f285dd4f23bebb459d83"
+  },
+  {
+   "name": "item_163.png",
+   "size": 3706,
+   "path": "files/SAMP/kpui/icons/items/item_163.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/da619803/icons/items/item_163.png",
+   "hash": "241969ca037ad0ae76cd3f5b634d5328",
+   "sha256": "e909a0633cf815214e8fe41e24968bf80b603ec2d206f285dd4f23bebb459d83"
+  },
+  {
+   "name": "item_164.png",
+   "size": 3706,
+   "path": "files/SAMP/kpui/icons/items/item_164.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/da619803/icons/items/item_164.png",
+   "hash": "241969ca037ad0ae76cd3f5b634d5328",
+   "sha256": "e909a0633cf815214e8fe41e24968bf80b603ec2d206f285dd4f23bebb459d83"
+  },
+  {
+   "name": "item_165.png",
+   "size": 2371,
+   "path": "files/SAMP/kpui/icons/items/item_165.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9479a17b/icons/items/item_165.png",
+   "hash": "1a040c9a52c8950f1ed095fb0345cc9b",
+   "sha256": "da9b6d157bd346bc41c301e0833686fd6b883872ba8757328717d0f359b2467c"
+  },
+  {
+   "name": "item_166.png",
+   "size": 3710,
+   "path": "files/SAMP/kpui/icons/items/item_166.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6f7cf8cf/icons/items/item_166.png",
+   "hash": "3da320bb90f62a72f29a8b2f4180df16",
+   "sha256": "3f52833fc5037e26a43226d18387b2b8cd09e9d84e686ed356f8febc80ec5a4e"
+  },
+  {
+   "name": "item_167.png",
+   "size": 4354,
+   "path": "files/SAMP/kpui/icons/items/item_167.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b66fb6c5/icons/items/item_167.png",
+   "hash": "e28bbe2d62059ea9dde0770ccf769b51",
+   "sha256": "46f188174718cf1959b9be0326fd0cbd337315539ff1ed0c6ac7f372200065a9"
+  },
+  {
+   "name": "item_168.png",
+   "size": 5093,
+   "path": "files/SAMP/kpui/icons/items/item_168.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/aeb2ff9c/icons/items/item_168.png",
+   "hash": "83fde7bcc50025f8622f2f07800ee805",
+   "sha256": "7b2d8f5dce07a195d3d781465a8b0541ef2dd8b172674305f21de02a7e4de7b4"
+  },
+  {
+   "name": "item_169.png",
+   "size": 4248,
+   "path": "files/SAMP/kpui/icons/items/item_169.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/58bc077a/icons/items/item_169.png",
+   "hash": "532426e8db1628d13b8c714da3a72800",
+   "sha256": "6266e0f7670d82328963781c783665632ecf7c89c16d9b9beb5d81c6742ac443"
+  },
+  {
+   "name": "item_17.png",
+   "size": 2651,
+   "path": "files/SAMP/kpui/icons/items/item_17.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/873d3a13/icons/items/item_17.png",
+   "hash": "2663e854da675ae0d12c5e6831112182",
+   "sha256": "3545db7891dc2f00aecdc97c531e02980bc030b0f32e97f2f3d0c51047c268ba"
+  },
+  {
+   "name": "item_170.png",
+   "size": 2930,
+   "path": "files/SAMP/kpui/icons/items/item_170.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d9deac61/icons/items/item_170.png",
+   "hash": "dc5233543934433cca7dcd48e719ef34",
+   "sha256": "02aba6e3a423184355f3f1d8b9f78e4a99d284853dd66c56d2c5c7d38558c76b"
+  },
+  {
+   "name": "item_171.png",
+   "size": 4054,
+   "path": "files/SAMP/kpui/icons/items/item_171.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/16cf41c9/icons/items/item_171.png",
+   "hash": "96b5762cba7bdacbfa559e53c6531c67",
+   "sha256": "1810fb50dc3ec710b8ce46fa5d75be1bcc036b35df30ba4fa4e76f86b79b69f9"
+  },
+  {
+   "name": "item_172.png",
+   "size": 3751,
+   "path": "files/SAMP/kpui/icons/items/item_172.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ea3e54ab/icons/items/item_172.png",
+   "hash": "1bca61b9e55c465a5c39e6d9f929f630",
+   "sha256": "10f77d2c2b81745c28092f078b5f917e5814d7d3b81c4c16e3f7cfd8f680d126"
+  },
+  {
+   "name": "item_173.png",
+   "size": 4862,
+   "path": "files/SAMP/kpui/icons/items/item_173.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1e4fe9e6/icons/items/item_173.png",
+   "hash": "4f2a7199226311fb2dcdcf7f6e906b6f",
+   "sha256": "f09369cbc83d78f231d5153d0160e923ae11dcf631d811b64576621661cc3f3d"
+  },
+  {
+   "name": "item_174.png",
+   "size": 2246,
+   "path": "files/SAMP/kpui/icons/items/item_174.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d0e7185c/icons/items/item_174.png",
+   "hash": "b1b726ebd51c4a155a56ead4f13320a5",
+   "sha256": "6de708df154f7b613544fa7eebafb5ceea3e82338a214b9a260ba4333fef83a1"
+  },
+  {
+   "name": "item_175.png",
+   "size": 3934,
+   "path": "files/SAMP/kpui/icons/items/item_175.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/25e503b1/icons/items/item_175.png",
+   "hash": "eecb3c2e1264e4229fa64af567b99b2f",
+   "sha256": "6086130e9e129a5b6bd83ff9abe96c553cff1d6da89621c28ec4128aaa99e862"
+  },
+  {
+   "name": "item_176.png",
+   "size": 2641,
+   "path": "files/SAMP/kpui/icons/items/item_176.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/60bab639/icons/items/item_176.png",
+   "hash": "e08ba8266467484cb0923ba97a2485c9",
+   "sha256": "468356c9052459a4da201568afa664460a963c718cc297a83a7bfbcd24bd8583"
+  },
+  {
+   "name": "item_177.png",
+   "size": 5878,
+   "path": "files/SAMP/kpui/icons/items/item_177.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7e02cae2/icons/items/item_177.png",
+   "hash": "3d03fe18e27994c023a3d0d3b79a123b",
+   "sha256": "385d2493c458fc2e81199843c8a504e97ba328f688631583574c88b3963c0ff0"
+  },
+  {
+   "name": "item_178.png",
+   "size": 4278,
+   "path": "files/SAMP/kpui/icons/items/item_178.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/26a68764/icons/items/item_178.png",
+   "hash": "65b80885fd29634cadf9360dafd6dd43",
+   "sha256": "19d8c38c9b93da24e66f53db5881bffb725f107421469a71e1283cbd1949b789"
+  },
+  {
+   "name": "item_179.png",
+   "size": 4278,
+   "path": "files/SAMP/kpui/icons/items/item_179.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/26a68764/icons/items/item_179.png",
+   "hash": "65b80885fd29634cadf9360dafd6dd43",
+   "sha256": "19d8c38c9b93da24e66f53db5881bffb725f107421469a71e1283cbd1949b789"
+  },
+  {
+   "name": "item_18.png",
+   "size": 2606,
+   "path": "files/SAMP/kpui/icons/items/item_18.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/cdab4d0e/icons/items/item_18.png",
+   "hash": "f8457099e610224a9f805541880b77ae",
+   "sha256": "8420a359653c1e0a966e2e106d8bb3ecc4e157d5a8aeaeefdb38e2f47be0280d"
+  },
+  {
+   "name": "item_180.png",
+   "size": 4539,
+   "path": "files/SAMP/kpui/icons/items/item_180.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/50c903fe/icons/items/item_180.png",
+   "hash": "b93c147bfcd05e91b1b4d26de25721d3",
+   "sha256": "bbd853f77759275153abf58d5ab8a718772ccf470c6b96eb632152ad6210aaa7"
+  },
+  {
+   "name": "item_181.png",
+   "size": 3726,
+   "path": "files/SAMP/kpui/icons/items/item_181.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e9784422/icons/items/item_181.png",
+   "hash": "137cb843e9e2f8302e2881d923947610",
+   "sha256": "d0f9eb1cbfa315c41f6532bc3fa6be4a845e708d7f7aec5f14001045e126be14"
+  },
+  {
+   "name": "item_182.png",
+   "size": 3726,
+   "path": "files/SAMP/kpui/icons/items/item_182.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e9784422/icons/items/item_182.png",
+   "hash": "137cb843e9e2f8302e2881d923947610",
+   "sha256": "d0f9eb1cbfa315c41f6532bc3fa6be4a845e708d7f7aec5f14001045e126be14"
+  },
+  {
+   "name": "item_183.png",
+   "size": 4358,
+   "path": "files/SAMP/kpui/icons/items/item_183.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0bed6d0b/icons/items/item_183.png",
+   "hash": "70f31889ac3285561ba35bf1fa59984c",
+   "sha256": "bf6554e2ed13a0a3e4864dff3b6da73529dc6ef3990eb4a6ca03413fc9d499ef"
+  },
+  {
+   "name": "item_184.png",
+   "size": 3715,
+   "path": "files/SAMP/kpui/icons/items/item_184.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c81af17f/icons/items/item_184.png",
+   "hash": "bf3c8e471bc7654c92ad3e60d8617a29",
+   "sha256": "e0874d87568457e7fe053d0c8c02fb76cb615347b64c4f6079bbdc83d1a65573"
+  },
+  {
+   "name": "item_185.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_185.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/01cd6c2c/icons/items/item_185.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_186.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_186.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/01cd6c2c/icons/items/item_186.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_187.png",
+   "size": 3756,
+   "path": "files/SAMP/kpui/icons/items/item_187.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/35e6a230/icons/items/item_187.png",
+   "hash": "837c1102061629dff73ecc5442347e11",
+   "sha256": "0ad0d3cdf43e9c7f970dd47e1398499ee866ceec6fbaab284dbcd8c63fe73e78"
+  },
+  {
+   "name": "item_188.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_188.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/01cd6c2c/icons/items/item_188.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_189.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_189.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/01cd6c2c/icons/items/item_189.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_19.png",
+   "size": 4054,
+   "path": "files/SAMP/kpui/icons/items/item_19.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/16cf41c9/icons/items/item_19.png",
+   "hash": "96b5762cba7bdacbfa559e53c6531c67",
+   "sha256": "1810fb50dc3ec710b8ce46fa5d75be1bcc036b35df30ba4fa4e76f86b79b69f9"
+  },
+  {
+   "name": "item_190.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_190.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/01cd6c2c/icons/items/item_190.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_191.png",
+   "size": 6055,
+   "path": "files/SAMP/kpui/icons/items/item_191.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6c4d13bc/icons/items/item_191.png",
+   "hash": "e5836e6c3653ed25aabc673e5ce22c82",
+   "sha256": "b7e43b72b067208f3a87b214c2a8546a0f9fe33cf42a169c23e9dea45be082ab"
+  },
+  {
+   "name": "item_192.png",
+   "size": 3157,
+   "path": "files/SAMP/kpui/icons/items/item_192.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c9dd96ff/icons/items/item_192.png",
+   "hash": "463bc801f83eab6962ad98fe445468e7",
+   "sha256": "ffe80e819d42f448ab287b533f6187e5b033e52471585ebeebde59fa0282e6e2"
+  },
+  {
+   "name": "item_193.png",
+   "size": 2433,
+   "path": "files/SAMP/kpui/icons/items/item_193.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d8ffec70/icons/items/item_193.png",
+   "hash": "d1c7f60c0ea40be93f2736dcf97a805e",
+   "sha256": "34cb5b8bec6c66e72aa1ec2aedcba2ce38dc5fbff47761dd9bd6f12747ef9add"
+  },
+  {
+   "name": "item_194.png",
+   "size": 5249,
+   "path": "files/SAMP/kpui/icons/items/item_194.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/df8d9f1b/icons/items/item_194.png",
+   "hash": "d9acc88f2d2132e01843f9a95d365793",
+   "sha256": "7d8a8bd00ef5db65840496c80ef159773b419c801c967c484ffed4d8edcac665"
+  },
+  {
+   "name": "item_195.png",
+   "size": 3419,
+   "path": "files/SAMP/kpui/icons/items/item_195.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6b010b3a/icons/items/item_195.png",
+   "hash": "1b533d3a26209941afeea9b55b33ee3b",
+   "sha256": "bb0f7ae4d796dcdf4a19b9bf91d3bc856fb01ef1072c8b989bef4dc3bac6dd57"
+  },
+  {
+   "name": "item_196.png",
+   "size": 3751,
+   "path": "files/SAMP/kpui/icons/items/item_196.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ea3e54ab/icons/items/item_196.png",
+   "hash": "1bca61b9e55c465a5c39e6d9f929f630",
+   "sha256": "10f77d2c2b81745c28092f078b5f917e5814d7d3b81c4c16e3f7cfd8f680d126"
+  },
+  {
+   "name": "item_197.png",
+   "size": 3449,
+   "path": "files/SAMP/kpui/icons/items/item_197.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/08bdc34d/icons/items/item_197.png",
+   "hash": "edb9e979c494dda3ccd7830c9aa57b85",
+   "sha256": "9dc49570883147d80a887a0aad3ac269e052ee6e559cf9f23c107f5b839dcabc"
+  },
+  {
+   "name": "item_198.png",
+   "size": 2371,
+   "path": "files/SAMP/kpui/icons/items/item_198.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4d98a2fb/icons/items/item_198.png",
+   "hash": "1a040c9a52c8950f1ed095fb0345cc9b",
+   "sha256": "da9b6d157bd346bc41c301e0833686fd6b883872ba8757328717d0f359b2467c"
+  },
+  {
+   "name": "item_199.png",
+   "size": 3569,
+   "path": "files/SAMP/kpui/icons/items/item_199.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a4a58b95/icons/items/item_199.png",
+   "hash": "3242e673eef8da5d777314d04bc63864",
+   "sha256": "b6951da251a938d0c972725ea891637d82da0fd47cf9d0d5804add9cea2872c4"
+  },
+  {
+   "name": "item_2.png",
+   "size": 2125,
+   "path": "files/SAMP/kpui/icons/items/item_2.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/cb721fb6/icons/items/item_2.png",
+   "hash": "3aa457ad8b2f4b322b5bb4057a28639f",
+   "sha256": "d82e8c84211bdb6d65e6c69cc8a66ec5503daca89cceadcf35195fe6586ac57f"
+  },
+  {
+   "name": "item_20.png",
+   "size": 3822,
+   "path": "files/SAMP/kpui/icons/items/item_20.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d06ac70f/icons/items/item_20.png",
+   "hash": "21465f675b9da2cfca5475c619459d33",
+   "sha256": "03dc002ff147badd0e26f93bdcd8556c6fba51bdff7d797be5138833ad03bda0"
+  },
+  {
+   "name": "item_200.png",
+   "size": 2940,
+   "path": "files/SAMP/kpui/icons/items/item_200.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/45509856/icons/items/item_200.png",
+   "hash": "30dc344aaf7e19468c62bc4e1ee5e151",
+   "sha256": "63c02ef3f762b2284bdb3941d450b69b15b0496cc2988274ed99a0b69c5eb8bd"
+  },
+  {
+   "name": "item_201.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_201.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5d5602bf/icons/items/item_201.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_202.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_202.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5d5602bf/icons/items/item_202.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_203.png",
+   "size": 4627,
+   "path": "files/SAMP/kpui/icons/items/item_203.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4428f296/icons/items/item_203.png",
+   "hash": "5d5b19a531d8df70d4c9283bd0eeb9f8",
+   "sha256": "716443fa191517c31f1622a250d239a08e581754e99cfa0ad658fbed3a5da13c"
+  },
+  {
+   "name": "item_204.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_204.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5d5602bf/icons/items/item_204.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_205.png",
+   "size": 2651,
+   "path": "files/SAMP/kpui/icons/items/item_205.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/675367d6/icons/items/item_205.png",
+   "hash": "2663e854da675ae0d12c5e6831112182",
+   "sha256": "3545db7891dc2f00aecdc97c531e02980bc030b0f32e97f2f3d0c51047c268ba"
+  },
+  {
+   "name": "item_206.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_206.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0285f764/icons/items/item_206.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_207.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_207.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0285f764/icons/items/item_207.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_208.png",
+   "size": 4032,
+   "path": "files/SAMP/kpui/icons/items/item_208.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a356adf6/icons/items/item_208.png",
+   "hash": "47b6f23ae5e91929aa83084ee1541e7c",
+   "sha256": "79857e0b566331613da55a1937a657171f58855b09705c70b0563ba55fbc8ceb"
+  },
+  {
+   "name": "item_209.png",
+   "size": 2650,
+   "path": "files/SAMP/kpui/icons/items/item_209.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/43281b27/icons/items/item_209.png",
+   "hash": "582d2ac0abc02e4db7fcf5289e3252b0",
+   "sha256": "3f1728a4f6b950c361051ab466e16d29cfd5f4d813c079fcf8a3eb323e6f8337"
+  },
+  {
+   "name": "item_21.png",
+   "size": 6210,
+   "path": "files/SAMP/kpui/icons/items/item_21.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2282a5c1/icons/items/item_21.png",
+   "hash": "9286ae2ea3ef02849e00241fc5a34a97",
+   "sha256": "278c5f2cb4a076a901a27c0afc0cae71f7971eecb51abf7fb8e7a2fe4bc81d88"
+  },
+  {
+   "name": "item_210.png",
+   "size": 4315,
+   "path": "files/SAMP/kpui/icons/items/item_210.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/36e2f8e4/icons/items/item_210.png",
+   "hash": "69c83cfbd27e3ceae4b86b77076ba8a7",
+   "sha256": "e99238e31e6e437ae1b06223f9785cd368a34b2a9ec5980991efcaea70258016"
+  },
+  {
+   "name": "item_211.png",
+   "size": 4315,
+   "path": "files/SAMP/kpui/icons/items/item_211.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/36e2f8e4/icons/items/item_211.png",
+   "hash": "69c83cfbd27e3ceae4b86b77076ba8a7",
+   "sha256": "e99238e31e6e437ae1b06223f9785cd368a34b2a9ec5980991efcaea70258016"
+  },
+  {
+   "name": "item_212.png",
+   "size": 2433,
+   "path": "files/SAMP/kpui/icons/items/item_212.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d4b844a7/icons/items/item_212.png",
+   "hash": "d1c7f60c0ea40be93f2736dcf97a805e",
+   "sha256": "34cb5b8bec6c66e72aa1ec2aedcba2ce38dc5fbff47761dd9bd6f12747ef9add"
+  },
+  {
+   "name": "item_213.png",
+   "size": 2433,
+   "path": "files/SAMP/kpui/icons/items/item_213.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d4b844a7/icons/items/item_213.png",
+   "hash": "d1c7f60c0ea40be93f2736dcf97a805e",
+   "sha256": "34cb5b8bec6c66e72aa1ec2aedcba2ce38dc5fbff47761dd9bd6f12747ef9add"
+  },
+  {
+   "name": "item_214.png",
+   "size": 2433,
+   "path": "files/SAMP/kpui/icons/items/item_214.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d4b844a7/icons/items/item_214.png",
+   "hash": "d1c7f60c0ea40be93f2736dcf97a805e",
+   "sha256": "34cb5b8bec6c66e72aa1ec2aedcba2ce38dc5fbff47761dd9bd6f12747ef9add"
+  },
+  {
+   "name": "item_215.png",
+   "size": 2433,
+   "path": "files/SAMP/kpui/icons/items/item_215.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d4b844a7/icons/items/item_215.png",
+   "hash": "d1c7f60c0ea40be93f2736dcf97a805e",
+   "sha256": "34cb5b8bec6c66e72aa1ec2aedcba2ce38dc5fbff47761dd9bd6f12747ef9add"
+  },
+  {
+   "name": "item_216.png",
+   "size": 5641,
+   "path": "files/SAMP/kpui/icons/items/item_216.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/63914716/icons/items/item_216.png",
+   "hash": "91bcd8866e6ece27f48110f021a18c86",
+   "sha256": "75c5981e553aca3cde320dc3da7f7647b990c71d7913e3037c676daeb7cae9c5"
+  },
+  {
+   "name": "item_217.png",
+   "size": 2842,
+   "path": "files/SAMP/kpui/icons/items/item_217.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/79814342/icons/items/item_217.png",
+   "hash": "e83e7169873be059fbc29dab4a15e9a6",
+   "sha256": "e3a1bcbfc0c4324d115778a99fb7c63d87a96fe52c9636888f26868862774a21"
+  },
+  {
+   "name": "item_218.png",
+   "size": 2842,
+   "path": "files/SAMP/kpui/icons/items/item_218.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/79814342/icons/items/item_218.png",
+   "hash": "e83e7169873be059fbc29dab4a15e9a6",
+   "sha256": "e3a1bcbfc0c4324d115778a99fb7c63d87a96fe52c9636888f26868862774a21"
+  },
+  {
+   "name": "item_219.png",
+   "size": 4918,
+   "path": "files/SAMP/kpui/icons/items/item_219.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4441764e/icons/items/item_219.png",
+   "hash": "a257dcb80869eba91e9c580c16370f67",
+   "sha256": "fc60267bd2de29e3430dd0887813fb3787078db54d9513b8d27fb808a33df1f8"
+  },
+  {
+   "name": "item_22.png",
+   "size": 2521,
+   "path": "files/SAMP/kpui/icons/items/item_22.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/23a7232f/icons/items/item_22.png",
+   "hash": "08675f130e29efee0b9180f8ae31eed5",
+   "sha256": "43bd9591543822ebcb730b36deec1d211e58c3f01099a39bb0ee0820060b5fe2"
+  },
+  {
+   "name": "item_220.png",
+   "size": 3096,
+   "path": "files/SAMP/kpui/icons/items/item_220.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1abc849d/icons/items/item_220.png",
+   "hash": "f94e0415de33979298889dd50ee8177a",
+   "sha256": "dd6bcc2544619e016dea06578e91f310f18637dfbd753d4442657bf8274495ed"
+  },
+  {
+   "name": "item_221.png",
+   "size": 3385,
+   "path": "files/SAMP/kpui/icons/items/item_221.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ba20cb33/icons/items/item_221.png",
+   "hash": "52e5ae43cff5f29a18432c31ad0ed012",
+   "sha256": "2ac7c3d6397f40695d6e59fb6dabbd2f76d72a939c53c5be0f48ef8343744a2a"
+  },
+  {
+   "name": "item_222.png",
+   "size": 3392,
+   "path": "files/SAMP/kpui/icons/items/item_222.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/461671f6/icons/items/item_222.png",
+   "hash": "2c49d03496fc637f5ef91c934d979d4c",
+   "sha256": "c09625106b65e16a4124360df4b4a64bb9d68080a85c401af55993f119dff8f2"
+  },
+  {
+   "name": "item_223.png",
+   "size": 3791,
+   "path": "files/SAMP/kpui/icons/items/item_223.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2773d324/icons/items/item_223.png",
+   "hash": "3444635aa6105c2027e9ead667ded0f8",
+   "sha256": "f8fedb6e9e02d2346bbcbecc1441c8a89bf92c92872befb028c34be257a79e1e"
+  },
+  {
+   "name": "item_224.png",
+   "size": 1254,
+   "path": "files/SAMP/kpui/icons/items/item_224.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/61160c2f/icons/items/item_224.png",
+   "hash": "67bb231362f8b6fe0acc9951113ba8b0",
+   "sha256": "1962ee613a729856c6fdaa4ea9ee0bb09ac43a3f3d0c68d0fde5ff1ae4a157e0"
+  },
+  {
+   "name": "item_225.png",
+   "size": 906,
+   "path": "files/SAMP/kpui/icons/items/item_225.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/76db3caa/icons/items/item_225.png",
+   "hash": "44e2b3d12c914a866aeb4d9b352b1754",
+   "sha256": "8dbd1db308483dce2b3c584fc73b7b86e0559d4e076e1f8b733384e8b683a08c"
+  },
+  {
+   "name": "item_226.png",
+   "size": 3822,
+   "path": "files/SAMP/kpui/icons/items/item_226.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/916bf3e9/icons/items/item_226.png",
+   "hash": "21465f675b9da2cfca5475c619459d33",
+   "sha256": "03dc002ff147badd0e26f93bdcd8556c6fba51bdff7d797be5138833ad03bda0"
+  },
+  {
+   "name": "item_227.png",
+   "size": 5012,
+   "path": "files/SAMP/kpui/icons/items/item_227.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/86420bc4/icons/items/item_227.png",
+   "hash": "49a33f22430ed207a818082491d86a25",
+   "sha256": "30dcaefb184e953ad979430ddc1c6bfc62d3a9141c1eb0fc65c1e7c3dfbcbb4c"
+  },
+  {
+   "name": "item_228.png",
+   "size": 2949,
+   "path": "files/SAMP/kpui/icons/items/item_228.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ab51c73d/icons/items/item_228.png",
+   "hash": "f086dbe060ef97cc15e1383aae491b74",
+   "sha256": "36d3f681450a567ec35d82d4b30e882d23e375694b68c4570892e0611698fe37"
+  },
+  {
+   "name": "item_229.png",
+   "size": 5265,
+   "path": "files/SAMP/kpui/icons/items/item_229.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6b5163ec/icons/items/item_229.png",
+   "hash": "9e6ee1be5c781c4b732ea5783b5eca20",
+   "sha256": "b7fdde366987f3a624d1144f16be25d49c092766a3ce75ae7fd191e5b2ad3722"
+  },
+  {
+   "name": "item_23.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_23.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b03aecfe/icons/items/item_23.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_230.png",
+   "size": 1538,
+   "path": "files/SAMP/kpui/icons/items/item_230.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1fad3b25/icons/items/item_230.png",
+   "hash": "4c8b99c29a0a90a25f5f184112663f7d",
+   "sha256": "c9dba8e6c18081ef2a10f256627ec3698368245f97ef56a07a6a1b34d36d8456"
+  },
+  {
+   "name": "item_231.png",
+   "size": 1729,
+   "path": "files/SAMP/kpui/icons/items/item_231.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/db771b5e/icons/items/item_231.png",
+   "hash": "428959c5345c291be08a6c0f309c5ff2",
+   "sha256": "62b91768a9d667caf4dab7dae5d3569c3b53286ec3e89914336e72bd841275d9"
+  },
+  {
+   "name": "item_232.png",
+   "size": 2506,
+   "path": "files/SAMP/kpui/icons/items/item_232.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e82cb6f0/icons/items/item_232.png",
+   "hash": "fb87b1baeba7b6105f5280a5c86738b0",
+   "sha256": "7e5e5c8304ee3018dee7a347cf4c3d9812f32a8bc78784a2c415a5142187bac4"
+  },
+  {
+   "name": "item_233.png",
+   "size": 1761,
+   "path": "files/SAMP/kpui/icons/items/item_233.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ac6139fe/icons/items/item_233.png",
+   "hash": "dacf77b7584027b681ee9e48b24772f0",
+   "sha256": "f272495b5a4482ab2560f0d0c8006691e875a016d6b1f2398deb88ee10151bbc"
+  },
+  {
+   "name": "item_234.png",
+   "size": 1845,
+   "path": "files/SAMP/kpui/icons/items/item_234.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/81d53711/icons/items/item_234.png",
+   "hash": "d2d371f53271819e6b946e66da5b24f2",
+   "sha256": "334c7017ffa7d742c8621ef500e4b47cf1d3efb9687fff74d52304addefe48e4"
+  },
+  {
+   "name": "item_235.png",
+   "size": 2416,
+   "path": "files/SAMP/kpui/icons/items/item_235.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/333b9ee2/icons/items/item_235.png",
+   "hash": "3c0fa12fd6e2e4804776f5d3da83ff37",
+   "sha256": "228d5a16b6c7e2876c50ba6df04ae577f4931b517d58229778e1fc04124c3e27"
+  },
+  {
+   "name": "item_24.png",
+   "size": 3112,
+   "path": "files/SAMP/kpui/icons/items/item_24.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ef726ded/icons/items/item_24.png",
+   "hash": "2aa041b47b1bfbbdfd5de59370c60516",
+   "sha256": "6b36a4976e7a7a13ded4e5536106afcc2da48bd004e5b96ee1761acbb1077cac"
+  },
+  {
+   "name": "item_25.png",
+   "size": 3157,
+   "path": "files/SAMP/kpui/icons/items/item_25.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6a0df748/icons/items/item_25.png",
+   "hash": "463bc801f83eab6962ad98fe445468e7",
+   "sha256": "ffe80e819d42f448ab287b533f6187e5b033e52471585ebeebde59fa0282e6e2"
+  },
+  {
+   "name": "item_26.png",
+   "size": 4388,
+   "path": "files/SAMP/kpui/icons/items/item_26.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1372da66/icons/items/item_26.png",
+   "hash": "cd75fdc4407602b12140b6a7ee0b4308",
+   "sha256": "143d0a95542e04e1abbdc3c8ec1cb1d6507bd5bc48e54533ce7f4dac43fe1fc4"
+  },
+  {
+   "name": "item_27.png",
+   "size": 2697,
+   "path": "files/SAMP/kpui/icons/items/item_27.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/dbc254da/icons/items/item_27.png",
+   "hash": "6e78e4aeeb62bcb442c2d2213527e32c",
+   "sha256": "606be691d6e5c5243122f3402780e3914d8a8cc07ef68e264f265b7013c01c2b"
+  },
+  {
+   "name": "item_28.png",
+   "size": 2940,
+   "path": "files/SAMP/kpui/icons/items/item_28.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5eaa19a4/icons/items/item_28.png",
+   "hash": "30dc344aaf7e19468c62bc4e1ee5e151",
+   "sha256": "63c02ef3f762b2284bdb3941d450b69b15b0496cc2988274ed99a0b69c5eb8bd"
+  },
+  {
+   "name": "item_29.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_29.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c0d5b799/icons/items/item_29.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_3.png",
+   "size": 3791,
+   "path": "files/SAMP/kpui/icons/items/item_3.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2773d324/icons/items/item_3.png",
+   "hash": "3444635aa6105c2027e9ead667ded0f8",
+   "sha256": "f8fedb6e9e02d2346bbcbecc1441c8a89bf92c92872befb028c34be257a79e1e"
+  },
+  {
+   "name": "item_30.png",
+   "size": 1817,
+   "path": "files/SAMP/kpui/icons/items/item_30.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f5f002b1/icons/items/item_30.png",
+   "hash": "d6e0c257e0d7018d1b899b4217b805a3",
+   "sha256": "499102a73714b40d7435d3f05c04a55a876261fd0f1ee86b56c013735cbe4a84"
+  },
+  {
+   "name": "item_31.png",
+   "size": 2842,
+   "path": "files/SAMP/kpui/icons/items/item_31.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d8f2d69e/icons/items/item_31.png",
+   "hash": "e83e7169873be059fbc29dab4a15e9a6",
+   "sha256": "e3a1bcbfc0c4324d115778a99fb7c63d87a96fe52c9636888f26868862774a21"
+  },
+  {
+   "name": "item_32.png",
+   "size": 2653,
+   "path": "files/SAMP/kpui/icons/items/item_32.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5746519a/icons/items/item_32.png",
+   "hash": "d4f6ae3e228e93a7ba96dac297d4bae3",
+   "sha256": "860ef412537c82b0d2df19c4c572d98d7823639e17e555bd9c6b70469489f0a0"
+  },
+  {
+   "name": "item_33.png",
+   "size": 2682,
+   "path": "files/SAMP/kpui/icons/items/item_33.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/09341775/icons/items/item_33.png",
+   "hash": "c499219a6d75dfb1cea66bb8e057ec4e",
+   "sha256": "1e2202c1833b052aa192faf19d83f589714ad061ad41410a4b971a36d1efb5f8"
+  },
+  {
+   "name": "item_34.png",
+   "size": 5033,
+   "path": "files/SAMP/kpui/icons/items/item_34.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8a76c785/icons/items/item_34.png",
+   "hash": "1462123781d81aa628c324f86dfa4aac",
+   "sha256": "9efbd224de10db78930b0535274ee9c3d08227dbd9415781d35521c0c848abb0"
+  },
+  {
+   "name": "item_35.png",
+   "size": 6200,
+   "path": "files/SAMP/kpui/icons/items/item_35.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/cd944fad/icons/items/item_35.png",
+   "hash": "a8ce164de9a01f4abcdd43ae4f65b98c",
+   "sha256": "17e6a8ead8c670237dfd7867a1d93525c3ebc0f3ba70fc1156e90305097d2a85"
+  },
+  {
+   "name": "item_36.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_36.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/61127c23/icons/items/item_36.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_37.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_37.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/61127c23/icons/items/item_37.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_38.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_38.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/61127c23/icons/items/item_38.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_39.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_39.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/61127c23/icons/items/item_39.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_4.png",
+   "size": 2125,
+   "path": "files/SAMP/kpui/icons/items/item_4.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/bd200b1c/icons/items/item_4.png",
+   "hash": "3aa457ad8b2f4b322b5bb4057a28639f",
+   "sha256": "d82e8c84211bdb6d65e6c69cc8a66ec5503daca89cceadcf35195fe6586ac57f"
+  },
+  {
+   "name": "item_40.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_40.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/61127c23/icons/items/item_40.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_41.png",
+   "size": 4142,
+   "path": "files/SAMP/kpui/icons/items/item_41.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/61127c23/icons/items/item_41.png",
+   "hash": "8e59f6e86ec63366e8e3d70e9d598c38",
+   "sha256": "1df47e53173ed432927c6929845b6c30de1addad0d852facbd902a1b6605d5cf"
+  },
+  {
+   "name": "item_42.png",
+   "size": 2479,
+   "path": "files/SAMP/kpui/icons/items/item_42.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b6e743c5/icons/items/item_42.png",
+   "hash": "892784e931f9c27a4b9934ed2ef3a7de",
+   "sha256": "9e2a0815898c6ec733a8b40839aac7119a8178148549e90f1afc8badacfee136"
+  },
+  {
+   "name": "item_43.png",
+   "size": 2710,
+   "path": "files/SAMP/kpui/icons/items/item_43.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/14825aa1/icons/items/item_43.png",
+   "hash": "4a05f2f20dd9136cbc419ef6a859852e",
+   "sha256": "e1118838dd85a3e534e5459dae41853a831314bbce5c0531caaea69afcbe95ec"
+  },
+  {
+   "name": "item_44.png",
+   "size": 2888,
+   "path": "files/SAMP/kpui/icons/items/item_44.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/456226d8/icons/items/item_44.png",
+   "hash": "7efb304b2fb6dc9b35ead0671a841b7b",
+   "sha256": "766c01252f3094afbc4ec9cdc4abc7b6f7e18b12390f8aa1a49c12852178099c"
+  },
+  {
+   "name": "item_45.png",
+   "size": 5914,
+   "path": "files/SAMP/kpui/icons/items/item_45.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ad457292/icons/items/item_45.png",
+   "hash": "67b28a35864578f93724bd2a29babd84",
+   "sha256": "aab574ab67456b7a563170c166fceb572e208aa36b7b68d8e22230073dbc676f"
+  },
+  {
+   "name": "item_46.png",
+   "size": 4862,
+   "path": "files/SAMP/kpui/icons/items/item_46.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/bec4a691/icons/items/item_46.png",
+   "hash": "4f2a7199226311fb2dcdcf7f6e906b6f",
+   "sha256": "f09369cbc83d78f231d5153d0160e923ae11dcf631d811b64576621661cc3f3d"
+  },
+  {
+   "name": "item_47.png",
+   "size": 6727,
+   "path": "files/SAMP/kpui/icons/items/item_47.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ba2c2018/icons/items/item_47.png",
+   "hash": "c58d034ea329749f7757c04ead274106",
+   "sha256": "035933f6188be6cdbd55a21691230f118c0b001e332aca412db6fe8165b71805"
+  },
+  {
+   "name": "item_48.png",
+   "size": 3112,
+   "path": "files/SAMP/kpui/icons/items/item_48.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e7a2fab9/icons/items/item_48.png",
+   "hash": "2aa041b47b1bfbbdfd5de59370c60516",
+   "sha256": "6b36a4976e7a7a13ded4e5536106afcc2da48bd004e5b96ee1761acbb1077cac"
+  },
+  {
+   "name": "item_49.png",
+   "size": 5265,
+   "path": "files/SAMP/kpui/icons/items/item_49.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/43c97894/icons/items/item_49.png",
+   "hash": "9e6ee1be5c781c4b732ea5783b5eca20",
+   "sha256": "b7fdde366987f3a624d1144f16be25d49c092766a3ce75ae7fd191e5b2ad3722"
+  },
+  {
+   "name": "item_5.png",
+   "size": 2599,
+   "path": "files/SAMP/kpui/icons/items/item_5.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/59d47648/icons/items/item_5.png",
+   "hash": "526d29926ec9daeaf158bb4da3344999",
+   "sha256": "8ea001c6630022d16685118875dd2fbfce582c9f47a88751745a8b3b5e5d415c"
+  },
+  {
+   "name": "item_50.png",
+   "size": 2371,
+   "path": "files/SAMP/kpui/icons/items/item_50.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d8caf0d9/icons/items/item_50.png",
+   "hash": "1a040c9a52c8950f1ed095fb0345cc9b",
+   "sha256": "da9b6d157bd346bc41c301e0833686fd6b883872ba8757328717d0f359b2467c"
+  },
+  {
+   "name": "item_51.png",
+   "size": 2280,
+   "path": "files/SAMP/kpui/icons/items/item_51.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b637172d/icons/items/item_51.png",
+   "hash": "f73d735486233e76a19e16e766362115",
+   "sha256": "9ac5c2baff9415a596535acaeeef207c08ef14ce98555168604a32398628b75f"
+  },
+  {
+   "name": "item_52.png",
+   "size": 3244,
+   "path": "files/SAMP/kpui/icons/items/item_52.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/dce279d5/icons/items/item_52.png",
+   "hash": "bea0125ac080ff30294d986bc337a17a",
+   "sha256": "5976f11bd50740fcec2a35217c11010cf254654ad35390461dd6aed74e2a05ce"
+  },
+  {
+   "name": "item_53.png",
+   "size": 3889,
+   "path": "files/SAMP/kpui/icons/items/item_53.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e0ea25f1/icons/items/item_53.png",
+   "hash": "287a4f1b2d48a86b82e73c55af9991eb",
+   "sha256": "66401b789c0ebed816cfbe3d15408efaaac341d565c5f6282a6065acaf4f9293"
+  },
+  {
+   "name": "item_54.png",
+   "size": 3889,
+   "path": "files/SAMP/kpui/icons/items/item_54.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e0ea25f1/icons/items/item_54.png",
+   "hash": "287a4f1b2d48a86b82e73c55af9991eb",
+   "sha256": "66401b789c0ebed816cfbe3d15408efaaac341d565c5f6282a6065acaf4f9293"
+  },
+  {
+   "name": "item_55.png",
+   "size": 3889,
+   "path": "files/SAMP/kpui/icons/items/item_55.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a3f0e9c8/icons/items/item_55.png",
+   "hash": "287a4f1b2d48a86b82e73c55af9991eb",
+   "sha256": "66401b789c0ebed816cfbe3d15408efaaac341d565c5f6282a6065acaf4f9293"
+  },
+  {
+   "name": "item_56.png",
+   "size": 6106,
+   "path": "files/SAMP/kpui/icons/items/item_56.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a7938897/icons/items/item_56.png",
+   "hash": "1672103be80db91e7baf9237b2dd46f9",
+   "sha256": "82ef6520bd19987dbeb18a0db440167ae20f898f7c16b697120407a37f289fc3"
+  },
+  {
+   "name": "item_57.png",
+   "size": 6033,
+   "path": "files/SAMP/kpui/icons/items/item_57.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c9af4d90/icons/items/item_57.png",
+   "hash": "34d3022fb08f127fbfa01e7b311296c9",
+   "sha256": "49d8a5d3d7889b460df5e811565d096c2e052d9db6cf127e6eb3ee31651147d4"
+  },
+  {
+   "name": "item_58.png",
+   "size": 5366,
+   "path": "files/SAMP/kpui/icons/items/item_58.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/921cee06/icons/items/item_58.png",
+   "hash": "ffbb95d7a5fc816f4c0fe00d1dc6121a",
+   "sha256": "4e1cf3b05ad613cd0e4ebc694f0be5b4678e5a2868f4dae98728cf7a1d15b4f6"
+  },
+  {
+   "name": "item_59.png",
+   "size": 5040,
+   "path": "files/SAMP/kpui/icons/items/item_59.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ee2397a5/icons/items/item_59.png",
+   "hash": "7b5d65630fa5233e61a1645bfc5b0bab",
+   "sha256": "178ea0b96745ea20f92a3e4914770bd9279b630b916d36073a65b70313c17fcd"
+  },
+  {
+   "name": "item_6.png",
+   "size": 4235,
+   "path": "files/SAMP/kpui/icons/items/item_6.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c837d697/icons/items/item_6.png",
+   "hash": "5e666426748676056456267914a75a4d",
+   "sha256": "1e99fcc63b2495754377cffb69ce0941fc75c9257c1be7fac2471f0fd6d37f7d"
+  },
+  {
+   "name": "item_60.png",
+   "size": 1796,
+   "path": "files/SAMP/kpui/icons/items/item_60.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a17ec46d/icons/items/item_60.png",
+   "hash": "3f3534e3e2827ad865962f24a67adea7",
+   "sha256": "ae5e19ee9cd3e28d1ef00c8d2d35ae274bbbd127f2b304c1b19ddf4ac9911177"
+  },
+  {
+   "name": "item_61.png",
+   "size": 3751,
+   "path": "files/SAMP/kpui/icons/items/item_61.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/68ad7701/icons/items/item_61.png",
+   "hash": "1bca61b9e55c465a5c39e6d9f929f630",
+   "sha256": "10f77d2c2b81745c28092f078b5f917e5814d7d3b81c4c16e3f7cfd8f680d126"
+  },
+  {
+   "name": "item_62.png",
+   "size": 3989,
+   "path": "files/SAMP/kpui/icons/items/item_62.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/fe945f64/icons/items/item_62.png",
+   "hash": "cbcccf8a1aa5d6724e3e5718fff20db8",
+   "sha256": "dc457c5e3131a126d5566c0287ac3db1e32084afdd9762e77b81399c15c53c46"
+  },
+  {
+   "name": "item_63.png",
+   "size": 2422,
+   "path": "files/SAMP/kpui/icons/items/item_63.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/407ff049/icons/items/item_63.png",
+   "hash": "41bb662c26c3f491bdde6e3db48a2388",
+   "sha256": "7282c337241e4f7887652fb2cf2e713c4921dae4f4269a4565fc06bc257c3025"
+  },
+  {
+   "name": "item_64.png",
+   "size": 3838,
+   "path": "files/SAMP/kpui/icons/items/item_64.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f678b5d4/icons/items/item_64.png",
+   "hash": "303785fc742dab5dae452f4ff7910921",
+   "sha256": "d45580112aee297f2ca702a1f65610541cdfd8e683005ccea5d0396dc2664a38"
+  },
+  {
+   "name": "item_65.png",
+   "size": 5012,
+   "path": "files/SAMP/kpui/icons/items/item_65.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d8f9db99/icons/items/item_65.png",
+   "hash": "49a33f22430ed207a818082491d86a25",
+   "sha256": "30dcaefb184e953ad979430ddc1c6bfc62d3a9141c1eb0fc65c1e7c3dfbcbb4c"
+  },
+  {
+   "name": "item_66.png",
+   "size": 1909,
+   "path": "files/SAMP/kpui/icons/items/item_66.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/60c82d4c/icons/items/item_66.png",
+   "hash": "d68140ea4e091bb43671d51673140126",
+   "sha256": "e8ad427ffeeafd4c0b9f52e30c6c36dd3b88c227deb05835ddfe4bcb815d2f81"
+  },
+  {
+   "name": "item_67.png",
+   "size": 5106,
+   "path": "files/SAMP/kpui/icons/items/item_67.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/02c85703/icons/items/item_67.png",
+   "hash": "a0d6d7f3649627a3a1acb501d98b0731",
+   "sha256": "30e9fcf0a84b81f6e11e2e368b922ba5e87aa45982543c372d7cc32991afb1b3"
+  },
+  {
+   "name": "item_68.png",
+   "size": 2606,
+   "path": "files/SAMP/kpui/icons/items/item_68.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8dafb360/icons/items/item_68.png",
+   "hash": "f8457099e610224a9f805541880b77ae",
+   "sha256": "8420a359653c1e0a966e2e106d8bb3ecc4e157d5a8aeaeefdb38e2f47be0280d"
+  },
+  {
+   "name": "item_69.png",
+   "size": 2521,
+   "path": "files/SAMP/kpui/icons/items/item_69.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/02d0b0c6/icons/items/item_69.png",
+   "hash": "08675f130e29efee0b9180f8ae31eed5",
+   "sha256": "43bd9591543822ebcb730b36deec1d211e58c3f01099a39bb0ee0820060b5fe2"
+  },
+  {
+   "name": "item_7.png",
+   "size": 5622,
+   "path": "files/SAMP/kpui/icons/items/item_7.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8f9918c5/icons/items/item_7.png",
+   "hash": "ec9f7d3cd35518ca5d41d91c1871fcec",
+   "sha256": "81bea4ba9ac184ec158fc9c600fb39f54711b2580adf99df212fbc6c33fd88b3"
+  },
+  {
+   "name": "item_70.png",
+   "size": 4388,
+   "path": "files/SAMP/kpui/icons/items/item_70.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1baa92af/icons/items/item_70.png",
+   "hash": "cd75fdc4407602b12140b6a7ee0b4308",
+   "sha256": "143d0a95542e04e1abbdc3c8ec1cb1d6507bd5bc48e54533ce7f4dac43fe1fc4"
+  },
+  {
+   "name": "item_71.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_71.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b670e427/icons/items/item_71.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_72.png",
+   "size": 2697,
+   "path": "files/SAMP/kpui/icons/items/item_72.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/cacec75b/icons/items/item_72.png",
+   "hash": "6e78e4aeeb62bcb442c2d2213527e32c",
+   "sha256": "606be691d6e5c5243122f3402780e3914d8a8cc07ef68e264f265b7013c01c2b"
+  },
+  {
+   "name": "item_73.png",
+   "size": 2651,
+   "path": "files/SAMP/kpui/icons/items/item_73.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ec51fbb9/icons/items/item_73.png",
+   "hash": "2663e854da675ae0d12c5e6831112182",
+   "sha256": "3545db7891dc2f00aecdc97c531e02980bc030b0f32e97f2f3d0c51047c268ba"
+  },
+  {
+   "name": "item_74.png",
+   "size": 2940,
+   "path": "files/SAMP/kpui/icons/items/item_74.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2bae4d39/icons/items/item_74.png",
+   "hash": "30dc344aaf7e19468c62bc4e1ee5e151",
+   "sha256": "63c02ef3f762b2284bdb3941d450b69b15b0496cc2988274ed99a0b69c5eb8bd"
+  },
+  {
+   "name": "item_75.png",
+   "size": 2940,
+   "path": "files/SAMP/kpui/icons/items/item_75.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2bae4d39/icons/items/item_75.png",
+   "hash": "30dc344aaf7e19468c62bc4e1ee5e151",
+   "sha256": "63c02ef3f762b2284bdb3941d450b69b15b0496cc2988274ed99a0b69c5eb8bd"
+  },
+  {
+   "name": "item_76.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_76.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/421b59f4/icons/items/item_76.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_77.png",
+   "size": 4054,
+   "path": "files/SAMP/kpui/icons/items/item_77.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/44fbb9e3/icons/items/item_77.png",
+   "hash": "96b5762cba7bdacbfa559e53c6531c67",
+   "sha256": "1810fb50dc3ec710b8ce46fa5d75be1bcc036b35df30ba4fa4e76f86b79b69f9"
+  },
+  {
+   "name": "item_78.png",
+   "size": 1707,
+   "path": "files/SAMP/kpui/icons/items/item_78.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6fd27495/icons/items/item_78.png",
+   "hash": "0b00c320de256cccb972d4ea43d45ca1",
+   "sha256": "90a139c3baaeef974f110534913bc135d77bf35140064e03dfb65f8c689af8f9"
+  },
+  {
+   "name": "item_79.png",
+   "size": 2629,
+   "path": "files/SAMP/kpui/icons/items/item_79.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a1790f07/icons/items/item_79.png",
+   "hash": "49584724137086b4d5b1a3d50ffa2cc9",
+   "sha256": "09877aa350c300dfca42f38a61c99ac86c68b4c2eb49a5a8efbb77a7ff86721f"
+  },
+  {
+   "name": "item_8.png",
+   "size": 4248,
+   "path": "files/SAMP/kpui/icons/items/item_8.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5a4236ac/icons/items/item_8.png",
+   "hash": "532426e8db1628d13b8c714da3a72800",
+   "sha256": "6266e0f7670d82328963781c783665632ecf7c89c16d9b9beb5d81c6742ac443"
+  },
+  {
+   "name": "item_80.png",
+   "size": 398,
+   "path": "files/SAMP/kpui/icons/items/item_80.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/fe60f519/icons/items/item_80.png",
+   "hash": "d16fcb7655fb42feaa09e35d0b646d7d",
+   "sha256": "f4c02a825290c3774aa6060b75a4598b14894d46f9196d547ff6c92eb36e6e12"
+  },
+  {
+   "name": "item_81.png",
+   "size": 4627,
+   "path": "files/SAMP/kpui/icons/items/item_81.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/995046f9/icons/items/item_81.png",
+   "hash": "5d5b19a531d8df70d4c9283bd0eeb9f8",
+   "sha256": "716443fa191517c31f1622a250d239a08e581754e99cfa0ad658fbed3a5da13c"
+  },
+  {
+   "name": "item_82.png",
+   "size": 1935,
+   "path": "files/SAMP/kpui/icons/items/item_82.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8f5d5862/icons/items/item_82.png",
+   "hash": "56e7be7943ab54d89f6fa6e95404bd07",
+   "sha256": "81616d325351d250e781017b09d0bad7f2377b70f7b0384343c064869c28a2ad"
+  },
+  {
+   "name": "item_83.png",
+   "size": 2137,
+   "path": "files/SAMP/kpui/icons/items/item_83.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0e94cc05/icons/items/item_83.png",
+   "hash": "e48b492fa75918960cf2cd258f2e4b9e",
+   "sha256": "24d547d8ffea7e6b7a9f24764e7c658aaacda512f059e372eed942a4a7449a1d"
+  },
+  {
+   "name": "item_84.png",
+   "size": 4486,
+   "path": "files/SAMP/kpui/icons/items/item_84.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7cc44f21/icons/items/item_84.png",
+   "hash": "b55314dda72b3b125f1dac78f4b11411",
+   "sha256": "9b87fc2b6ea33d6a003f97e89b782880f90af9b66d37335225cf68766ce1a1ff"
+  },
+  {
+   "name": "item_85.png",
+   "size": 4684,
+   "path": "files/SAMP/kpui/icons/items/item_85.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f4d33ea2/icons/items/item_85.png",
+   "hash": "b4a5af85e4d4b80e47036bc5a95a8b52",
+   "sha256": "6720d30bc9b8c0699728eb1fe50c3d993b5a3a4223820f8945a3574b3d33e7b8"
+  },
+  {
+   "name": "item_86.png",
+   "size": 5769,
+   "path": "files/SAMP/kpui/icons/items/item_86.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7e8424ff/icons/items/item_86.png",
+   "hash": "ecc2f8019c5f6bb2bac7945cb3b5e617",
+   "sha256": "880aeadf18f61ab67564ae00856a93e4da4867f8571873cff8158cc67bce497c"
+  },
+  {
+   "name": "item_87.png",
+   "size": 3725,
+   "path": "files/SAMP/kpui/icons/items/item_87.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f8bb2a4d/icons/items/item_87.png",
+   "hash": "a4425f4a03334111fc776d3ba827a475",
+   "sha256": "405616193a2caa36c11cdfc91a1a52570b845532b89e67388f60bafc76a05f01"
+  },
+  {
+   "name": "item_88.png",
+   "size": 3203,
+   "path": "files/SAMP/kpui/icons/items/item_88.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b93c4455/icons/items/item_88.png",
+   "hash": "3d79c29a0a1b25bb45a5b55c4c729609",
+   "sha256": "6df3d1061124d47f9c65f69d09c631ab869df680b78103b724c2473130bde0dd"
+  },
+  {
+   "name": "item_89.png",
+   "size": 3909,
+   "path": "files/SAMP/kpui/icons/items/item_89.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c1fd2f46/icons/items/item_89.png",
+   "hash": "daa2501bbe37b8fd1e83a6095419fff9",
+   "sha256": "bf41d5f0d86d6df38e73b3b88781f41f96eab72028d01b0da82f5909e18e8904"
+  },
+  {
+   "name": "item_9.png",
+   "size": 4315,
+   "path": "files/SAMP/kpui/icons/items/item_9.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/c0593119/icons/items/item_9.png",
+   "hash": "69c83cfbd27e3ceae4b86b77076ba8a7",
+   "sha256": "e99238e31e6e437ae1b06223f9785cd368a34b2a9ec5980991efcaea70258016"
+  },
+  {
+   "name": "item_90.png",
+   "size": 3690,
+   "path": "files/SAMP/kpui/icons/items/item_90.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/33017db2/icons/items/item_90.png",
+   "hash": "eb1ac37ad1cb973594b1dd9115b9fcc2",
+   "sha256": "132faa9a2fd660f016fe2ba4e20d91e1fc380463dd38b61a95259649619485c1"
+  },
+  {
+   "name": "item_91.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_91.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/86b08d99/icons/items/item_91.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_92.png",
+   "size": 2433,
+   "path": "files/SAMP/kpui/icons/items/item_92.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5ac33c1c/icons/items/item_92.png",
+   "hash": "d1c7f60c0ea40be93f2736dcf97a805e",
+   "sha256": "34cb5b8bec6c66e72aa1ec2aedcba2ce38dc5fbff47761dd9bd6f12747ef9add"
+  },
+  {
+   "name": "item_93.png",
+   "size": 2433,
+   "path": "files/SAMP/kpui/icons/items/item_93.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5ac33c1c/icons/items/item_93.png",
+   "hash": "d1c7f60c0ea40be93f2736dcf97a805e",
+   "sha256": "34cb5b8bec6c66e72aa1ec2aedcba2ce38dc5fbff47761dd9bd6f12747ef9add"
+  },
+  {
+   "name": "item_94.png",
+   "size": 3407,
+   "path": "files/SAMP/kpui/icons/items/item_94.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e7688ff2/icons/items/item_94.png",
+   "hash": "5d22b36d6c1520712ed934765dd9c5b0",
+   "sha256": "24b0ae9bea2494054260b7e017956d5a6a81cb473e91df3519ddece644d05d3f"
+  },
+  {
+   "name": "item_95.png",
+   "size": 5641,
+   "path": "files/SAMP/kpui/icons/items/item_95.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2feb0301/icons/items/item_95.png",
+   "hash": "91bcd8866e6ece27f48110f021a18c86",
+   "sha256": "75c5981e553aca3cde320dc3da7f7647b990c71d7913e3037c676daeb7cae9c5"
+  },
+  {
+   "name": "item_96.png",
+   "size": 3006,
+   "path": "files/SAMP/kpui/icons/items/item_96.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/86b08d99/icons/items/item_96.png",
+   "hash": "2ec949f4eb6acd4aafec2f3ea0fbb2ea",
+   "sha256": "e07a7baa77d8b0e4d31901836ee355390496b026e53524008f8d596672729f92"
+  },
+  {
+   "name": "item_97.png",
+   "size": 1909,
+   "path": "files/SAMP/kpui/icons/items/item_97.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/37ebf12e/icons/items/item_97.png",
+   "hash": "d68140ea4e091bb43671d51673140126",
+   "sha256": "e8ad427ffeeafd4c0b9f52e30c6c36dd3b88c227deb05835ddfe4bcb815d2f81"
+  },
+  {
+   "name": "item_98.png",
+   "size": 3157,
+   "path": "files/SAMP/kpui/icons/items/item_98.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/21798f7b/icons/items/item_98.png",
+   "hash": "463bc801f83eab6962ad98fe445468e7",
+   "sha256": "ffe80e819d42f448ab287b533f6187e5b033e52471585ebeebde59fa0282e6e2"
+  },
+  {
+   "name": "item_99.png",
+   "size": 2624,
+   "path": "files/SAMP/kpui/icons/items/item_99.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/11a7346c/icons/items/item_99.png",
+   "hash": "51d15eddde3d6caacaa98854282da785",
+   "sha256": "2e3cc0ac2b94ac72753a10b54c551f11166380c7f9a806789167413801c3b8c7"
+  },
+  {
+   "name": "lockbox.png",
+   "size": 3540,
+   "path": "files/SAMP/kpui/icons/lockbox.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e709bfa5/icons/lockbox.png",
+   "hash": "5183fe1b86ab42359892da6d976b1e03",
+   "sha256": "ee5033c89f60dd813d58fda213eb09b18b6e27fa58ecc9ede4b4308ad6205649"
+  },
+  {
+   "name": "lock.png",
+   "size": 257,
+   "path": "files/SAMP/kpui/icons/login/lock.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f2da0024/icons/login/lock.png",
+   "hash": "fca0aa4f06c39b1ec15b079eaf7ed58e",
+   "sha256": "dfd01ed772b3a75fdf48fa74d14584c1f19a547b7c3d13519b83eb67bd4f45a0"
+  },
+  {
+   "name": "logo.png",
+   "size": 386711,
+   "path": "files/SAMP/kpui/icons/login/logo.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e56322ce/icons/login/logo.png",
+   "hash": "ea98f676a52c9349a112a29bb71832c9",
+   "sha256": "6a35e805c9f40d147e52b0e61daa66504c7e9c6a8c308b0aa516dc2bedc2a121"
+  },
+  {
+   "name": "user.png",
+   "size": 335,
+   "path": "files/SAMP/kpui/icons/login/user.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/443f6136/icons/login/user.png",
+   "hash": "1ee36b6b2919a6c92e7a4408a30be8ae",
+   "sha256": "d0234a0bc7a322efc27182c6978811180834fa42063707b5b8edbb256497b836"
+  },
+  {
+   "name": "icon_banana.png",
+   "size": 9300,
+   "path": "files/SAMP/kpui/icons/map/icon_banana.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/bd7fdafe/icons/map/icon_banana.png",
+   "hash": "27a10f1afb854aac13d7e8b5592e1116",
+   "sha256": "dcfe81dae483267fdea0b73afd7f4ee13e6e5684c035ce43d370d015ef8fe4a5"
+  },
+  {
+   "name": "icon_cable.png",
+   "size": 9100,
+   "path": "files/SAMP/kpui/icons/map/icon_cable.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/125b633f/icons/map/icon_cable.png",
+   "hash": "aed0b88d3bbb1c9faa82ca74c32e56ca",
+   "sha256": "ceaac1a7d167c01fea746e046600eae4bbb68fc9f10eaadb8e2267ab57945379"
+  },
+  {
+   "name": "icon_carshop.png",
+   "size": 10610,
+   "path": "files/SAMP/kpui/icons/map/icon_carshop.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/313f92fb/icons/map/icon_carshop.png",
+   "hash": "d56b6a02ab65dac642d24b77193a798e",
+   "sha256": "aceb4e279f9d20567654d8a65524bd83e5aac7b6e65d5348021352220fe7be54"
+  },
+  {
+   "name": "icon_fishing.png",
+   "size": 9131,
+   "path": "files/SAMP/kpui/icons/map/icon_fishing.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4901c958/icons/map/icon_fishing.png",
+   "hash": "5cdd88c6788f93adab073b7a9098ad57",
+   "sha256": "bef11caf39f55e37068553a1976bcbb15fc871e89d13eca7878d17dc75735a98"
+  },
+  {
+   "name": "icon_fuckcar.png",
+   "size": 9392,
+   "path": "files/SAMP/kpui/icons/map/icon_fuckcar.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ab0488ea/icons/map/icon_fuckcar.png",
+   "hash": "fca895edee18e1d0f8c641fd3de52c35",
+   "sha256": "224af1b4eccebc0ae0eaa3199d3c7fcb400fcef0a182158060fa917c72c60e5d"
+  },
+  {
+   "name": "icon_honey.png",
+   "size": 9440,
+   "path": "files/SAMP/kpui/icons/map/icon_honey.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f1f8ba7a/icons/map/icon_honey.png",
+   "hash": "2f50c4493d3170021cf72d9f1262964d",
+   "sha256": "669ff209b7617a6ce1d21fb389cc7c33973b8086a2a752467d908eebc9e9a2c4"
+  },
+  {
+   "name": "icon_mechanic.png",
+   "size": 10330,
+   "path": "files/SAMP/kpui/icons/map/icon_mechanic.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/57511029/icons/map/icon_mechanic.png",
+   "hash": "00afd6c2fc22d6499c747bbd55ce6ad5",
+   "sha256": "900c089aa01cc149fdd301017e23ade64b74bf2c7113cfe2dc92f91e06ecb73c"
+  },
+  {
+   "name": "icon_medic.png",
+   "size": 8543,
+   "path": "files/SAMP/kpui/icons/map/icon_medic.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0a924bf7/icons/map/icon_medic.png",
+   "hash": "c67c14f971a166df1dc11b5526a5a3e2",
+   "sha256": "05d1aa5da9ce354ef72747ff705339d77ea38abc884c1401be413a3d920b08ce"
+  },
+  {
+   "name": "icon_mine.png",
+   "size": 9627,
+   "path": "files/SAMP/kpui/icons/map/icon_mine.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6cf53fc7/icons/map/icon_mine.png",
+   "hash": "bae309def4f3f5dfa616c1c4d9119f62",
+   "sha256": "36ca86e2d762e1fcfda904f76e660c0307705f553f5f8a8b6c55a58bf478fbac"
+  },
+  {
+   "name": "icon_orange.png",
+   "size": 9060,
+   "path": "files/SAMP/kpui/icons/map/icon_orange.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5834b28e/icons/map/icon_orange.png",
+   "hash": "bb34a27ab62a41e9ccd0ba8d91e950f7",
+   "sha256": "63ed5633619ecabe937f2246b0ae3bafb8416d929901fa5f5447c7998efa11d6"
+  },
+  {
+   "name": "icon_pineapple.png",
+   "size": 9033,
+   "path": "files/SAMP/kpui/icons/map/icon_pineapple.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/28d43b8f/icons/map/icon_pineapple.png",
+   "hash": "5dee5228b2e92373233e3d3027dda765",
+   "sha256": "826670acc4d1098e432b35595fb4f68e2ef72431004e8e200952571901a04733"
+  },
+  {
+   "name": "icon_police.png",
+   "size": 9493,
+   "path": "files/SAMP/kpui/icons/map/icon_police.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/cdb6b399/icons/map/icon_police.png",
+   "hash": "2f98590f9a43a41d21b1e9f4e09a8b9d",
+   "sha256": "130cc72a63151cba7fc699c8aa5a8a381132ec23f75d29fbc58dc95329200012"
+  },
+  {
+   "name": "icon_poon.png",
+   "size": 9498,
+   "path": "files/SAMP/kpui/icons/map/icon_poon.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/614b6ce6/icons/map/icon_poon.png",
+   "hash": "9d45d9bb28760bb867128f4072a4f199",
+   "sha256": "506b5e4404f22025a74c3079054a24fd0afa507c86d2016c36f97bb3898f3140"
+  },
+  {
+   "name": "icon_rice.png",
+   "size": 9485,
+   "path": "files/SAMP/kpui/icons/map/icon_rice.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3a1255c1/icons/map/icon_rice.png",
+   "hash": "d069adfcb25c876b6e6c93f9d6da01f2",
+   "sha256": "ca8cfb472c0d6792a2e1f9e89fdc8f3c49c5a661de3139fea9c0be583e807094"
+  },
+  {
+   "name": "icon_shell.png",
+   "size": 9793,
+   "path": "files/SAMP/kpui/icons/map/icon_shell.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/030a0abc/icons/map/icon_shell.png",
+   "hash": "2f003d5e81f087714194968930d07a35",
+   "sha256": "8711b800e986e628442cf5b28111a9497bc97d7f75f246fe29a3bb9357d85318"
+  },
+  {
+   "name": "icon_sombat.png",
+   "size": 9718,
+   "path": "files/SAMP/kpui/icons/map/icon_sombat.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/606a359a/icons/map/icon_sombat.png",
+   "hash": "c395d8e0fe1872296da912eb03671141",
+   "sha256": "6ca3466e1b5f7f2f70ce4b93908ba384bfc42ac51fad6a4a96ae6c9c67640d40"
+  },
+  {
+   "name": "icon_weed.png",
+   "size": 8936,
+   "path": "files/SAMP/kpui/icons/map/icon_weed.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/686cc1b9/icons/map/icon_weed.png",
+   "hash": "1c095906b73ee921f5a37d9f37c6b787",
+   "sha256": "6de68321ff42658ac90a92529e4c01d72890d76140df53b817f8ba8113abde64"
+  },
+  {
+   "name": "icon_wood.png",
+   "size": 8880,
+   "path": "files/SAMP/kpui/icons/map/icon_wood.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f5833d91/icons/map/icon_wood.png",
+   "hash": "7cd931c527c0c75651def1ea7c69d40b",
+   "sha256": "8718078175f3de8232313cda5b647dec943cefac3be14c9f0e6a6ab8c31fc3bb"
+  },
+  {
+   "name": "map_bg.png",
+   "size": 191819,
+   "path": "files/SAMP/kpui/icons/map/map_bg.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b3f5eb61/icons/map/map_bg.png",
+   "hash": "2f5553d777eccecd4fae6563c779bf70",
+   "sha256": "1628757005ebbb7f46158d906678e7839d6cfa71c8a8a3a9df67224a9622dd09"
+  },
+  {
+   "name": "bag.png",
+   "size": 878,
+   "path": "files/SAMP/kpui/icons/nav/bag.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3c9c7164/icons/nav/bag.png",
+   "hash": "afa20a15a3f0929078b48fd907f9b469",
+   "sha256": "e2fa4ba5605d0235179cd40a83190ae5e210fff7e85b47bf5c92600dbe5e2ed9"
+  },
+  {
+   "name": "bell.png",
+   "size": 703,
+   "path": "files/SAMP/kpui/icons/nav/bell.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/64aaadba/icons/nav/bell.png",
+   "hash": "0a684aebf936879bc7ab6942941f1f40",
+   "sha256": "6d050a183c1616560a132e2c958528bdff4cab154357308e0b876c48ed63c923"
+  },
+  {
+   "name": "clock.png",
+   "size": 1235,
+   "path": "files/SAMP/kpui/icons/nav/clock.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/52bb8348/icons/nav/clock.png",
+   "hash": "11dcbbf50832f49c58d7ba21b1910c0e",
+   "sha256": "8fd67a7fd744e7997086e8bf2767d5a8b4732bcc47a23ec7f4519fe88cca4a43"
+  },
+  {
+   "name": "close.png",
+   "size": 507,
+   "path": "files/SAMP/kpui/icons/nav/close.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a9e5c023/icons/nav/close.png",
+   "hash": "aa23c8aa343d15b6f13ac13b6b7fcecf",
+   "sha256": "ac7f76e7f698b1d142000521f9809f5277b222f4e7b8552427842982266777d8"
+  },
+  {
+   "name": "gear.png",
+   "size": 1140,
+   "path": "files/SAMP/kpui/icons/nav/gear.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/be69bc6f/icons/nav/gear.png",
+   "hash": "6af7ae88c4ecdf65be3c1bf418eab849",
+   "sha256": "bffb357786c56ce897e51e51e5b9fa40a7309ce9e161f1b8fef1903bdde74e59"
+  },
+  {
+   "name": "logo.png",
+   "size": 2000,
+   "path": "files/SAMP/kpui/icons/nav/logo.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8fe141c6/icons/nav/logo.png",
+   "hash": "b95750e91bf94f5a14bc94236869f66b",
+   "sha256": "e5f8c5a31fd148b7bde3fcd15feccceafbdad99170077f7cef7addb1395b1219"
+  },
+  {
+   "name": "map.png",
+   "size": 857,
+   "path": "files/SAMP/kpui/icons/nav/map.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5962211f/icons/nav/map.png",
+   "hash": "ba2c8951a9123c0c7e390572d27cd5bd",
+   "sha256": "0060aca6e73a87e6cfc6d8233965e438b73d02f746b0ac6f20bde173f6d3cb6f"
+  },
+  {
+   "name": "trade.png",
+   "size": 1067,
+   "path": "files/SAMP/kpui/icons/nav/trade.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/13a6a250/icons/nav/trade.png",
+   "hash": "5d93bb525ddc525e7abed3e96fb5f49a",
+   "sha256": "a43421e90d14ef614eba13a327627c08bbd3d81d96d1c353a5c0d2045889af51"
+  },
+  {
+   "name": "trophy.png",
+   "size": 1082,
+   "path": "files/SAMP/kpui/icons/nav/trophy.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/871eb6ed/icons/nav/trophy.png",
+   "hash": "ea0f1ea01ab8a21197ceba85d6441786",
+   "sha256": "e477194bafa53d3dea51e0f19d860564d4ac3a0e151da19961ce59c1453196b4"
+  },
+  {
+   "name": "user.png",
+   "size": 1025,
+   "path": "files/SAMP/kpui/icons/nav/user.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b7dd4a46/icons/nav/user.png",
+   "hash": "88788c491d30a8b6d368752efd18078e",
+   "sha256": "b52d83bc107cfee8880103d948e81cb41247ea486b86a41b761726eadd81f9f0"
+  },
+  {
+   "name": "badge.png",
+   "size": 677,
+   "path": "files/SAMP/kpui/icons/pass/badge.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/888dc554/icons/pass/badge.png",
+   "hash": "907cfde27fee18868c7791c9762a035a",
+   "sha256": "7e33c3bd9c79c544c3e39fe74c0e4b4e8e41ebdf6a0c7a14f1478fa06d810fe3"
+  },
+  {
+   "name": "check.png",
+   "size": 719,
+   "path": "files/SAMP/kpui/icons/pass/check.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ffc06e6a/icons/pass/check.png",
+   "hash": "a0bfc6aa2d45ff941a065ce7250ea747",
+   "sha256": "aad83349d6713680012422a1f3d64a421f24938d92b148a2e17997570ac28562"
+  },
+  {
+   "name": "clock.png",
+   "size": 1059,
+   "path": "files/SAMP/kpui/icons/pass/clock.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/20837e78/icons/pass/clock.png",
+   "hash": "0b79f0ad2c5712cf61339278e317cf89",
+   "sha256": "51fdc323c445790508ebc19a41b0af90e878ad81f847ed1bc6125063970af94d"
+  },
+  {
+   "name": "cross.png",
+   "size": 418,
+   "path": "files/SAMP/kpui/icons/pass/cross.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/92ef5bd2/icons/pass/cross.png",
+   "hash": "12f7d4a66a193a56aece58f53610790a",
+   "sha256": "d2e2e38e281ce81626a5f8a04bdfdfefacd42427d4e2f3ff435e66e2b7dacc95"
+  },
+  {
+   "name": "crown.png",
+   "size": 922,
+   "path": "files/SAMP/kpui/icons/pass/crown.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a95ad80d/icons/pass/crown.png",
+   "hash": "3227f2199d42e295f3fa7d0512f2dad6",
+   "sha256": "568b7e7b5e2c612d5626f2fa818b5eb99fe00cf770d234fa82d9e273375c44cd"
+  },
+  {
+   "name": "flag.png",
+   "size": 454,
+   "path": "files/SAMP/kpui/icons/pass/flag.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/7a6bf543/icons/pass/flag.png",
+   "hash": "bebd2827192bb3ead0a402ef55cef063",
+   "sha256": "3bfd1ca18ec405d939f04a0e1806ba3d3da04afb0fc226ab616467aee7144ad9"
+  },
+  {
+   "name": "gift.png",
+   "size": 752,
+   "path": "files/SAMP/kpui/icons/pass/gift.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6d24e730/icons/pass/gift.png",
+   "hash": "39799fb184740097034b2200fdb0c6b8",
+   "sha256": "fe1481abf927028bda32a7b2c6efd41d1e2cb57c6391b2278f545a39f732cf50"
+  },
+  {
+   "name": "lock.png",
+   "size": 727,
+   "path": "files/SAMP/kpui/icons/pass/lock.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e2f1b0d7/icons/pass/lock.png",
+   "hash": "2e5154712270717352bc289d3ad24816",
+   "sha256": "39654b18a61df5b966b77889674512d817694f37cf4cc972762fcc39d6bfb12e"
+  },
+  {
+   "name": "people.png",
+   "size": 863,
+   "path": "files/SAMP/kpui/icons/pass/people.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ebdc6c30/icons/pass/people.png",
+   "hash": "ac6ea5bf6b06227b01b4ec7b08e9f1b9",
+   "sha256": "049a8ec76cc31752a26887c3a55d10e5f5ad1852dbee3e2ed3b7895ecbcc307d"
+  },
+  {
+   "name": "phone.png",
+   "size": 479,
+   "path": "files/SAMP/kpui/icons/pass/phone.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/31ea8576/icons/pass/phone.png",
+   "hash": "85efdd2cbc83ea08621d6f470fec0f06",
+   "sha256": "9f22a1291fb060b71abddaf06ed4ec591de6360d9cefca02e66d4152657056e3"
+  },
+  {
+   "name": "shield.png",
+   "size": 1055,
+   "path": "files/SAMP/kpui/icons/pass/shield.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3d614e61/icons/pass/shield.png",
+   "hash": "51e9db6ebe1f9f27c7d7159ed6e90490",
+   "sha256": "eb7e483e3dc2f4b28182c28a6609679fc38f16536a94f54094df61f4dd18d8d7"
+  },
+  {
+   "name": "ticket.png",
+   "size": 502,
+   "path": "files/SAMP/kpui/icons/pass/ticket.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/38110eb3/icons/pass/ticket.png",
+   "hash": "592033b04bd4a18533e7b52e944851c2",
+   "sha256": "23aa4e7346b3f590c0ecd27026e7aadcf2c12e8b21b71f92b662d314a3ad3548"
+  },
+  {
+   "name": "wrench.png",
+   "size": 741,
+   "path": "files/SAMP/kpui/icons/pass/wrench.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a0e2c9f9/icons/pass/wrench.png",
+   "hash": "0c949a843ffeb07cfff18a202ae3b7d6",
+   "sha256": "e943643ba534d2907a81f54e85256fa5c091b4862a3ab9670372c78c783710ec"
+  },
+  {
+   "name": "911.png",
+   "size": 540,
+   "path": "files/SAMP/kpui/icons/phone/911.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f71bb064/icons/phone/911.png",
+   "hash": "3131e7760fd2b9ec66e7ff64a8374bba",
+   "sha256": "2d59f2c977568f9e3128a2474743598f37f2b0cefcf60c9c4730a077b74cefde"
+  },
+  {
+   "name": "bank.png",
+   "size": 411,
+   "path": "files/SAMP/kpui/icons/phone/bank.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3628f12a/icons/phone/bank.png",
+   "hash": "d28b911d7730b25e69f3aa4f11b3109c",
+   "sha256": "f7d29c576a183bf125d3651e9cdd131d7589959af6a434508b2b1b1f160f43f2"
+  },
+  {
+   "name": "call.png",
+   "size": 550,
+   "path": "files/SAMP/kpui/icons/phone/call.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f568798a/icons/phone/call.png",
+   "hash": "60061c57ad985be634cf08ceed07b3b8",
+   "sha256": "a4da82913b0ad62bdd28d6a27ea4f311e660d4fc6b32e1f43ae13a89b715f034"
+  },
+  {
+   "name": "contacts.png",
+   "size": 430,
+   "path": "files/SAMP/kpui/icons/phone/contacts.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/acc023bb/icons/phone/contacts.png",
+   "hash": "9e2ea11f60bf6a09f27a4da486d1d5b3",
+   "sha256": "90427fcee028e08acf7616a706395793b800ba1d46a4beb250a5b374c0a819ce"
+  },
+  {
+   "name": "garage.png",
+   "size": 544,
+   "path": "files/SAMP/kpui/icons/phone/garage.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0ed2c660/icons/phone/garage.png",
+   "hash": "73af2dbe16f0359f51e96eb2480996ce",
+   "sha256": "c32b75cac4fed5f290323efc9eeca493ae1feb5f69db2667236d5fd2941b64a8"
+  },
+  {
+   "name": "gps.png",
+   "size": 545,
+   "path": "files/SAMP/kpui/icons/phone/gps.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ad3a8bed/icons/phone/gps.png",
+   "hash": "2007a6bfba66f5ee606b7347b68f72f3",
+   "sha256": "8e413f29604557961381a669fff022bf8cac0d3996e3b783f920514108697481"
+  },
+  {
+   "name": "power.png",
+   "size": 700,
+   "path": "files/SAMP/kpui/icons/phone/power.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3f43b144/icons/phone/power.png",
+   "hash": "34dabd94cd255ac006c7e64116210e50",
+   "sha256": "4a36c6c0ed5e59122b2c6e9a9f9e39424b829942beb9371b864ff0f872ff581c"
+  },
+  {
+   "name": "settings.png",
+   "size": 622,
+   "path": "files/SAMP/kpui/icons/phone/settings.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/22c67622/icons/phone/settings.png",
+   "hash": "97de67e864e0a086071391aaac36f54d",
+   "sha256": "b259687ddfbc85de888d25f42fab390ccdb82ae313ec76f60f66159c672c8161"
+  },
+  {
+   "name": "sim.png",
+   "size": 335,
+   "path": "files/SAMP/kpui/icons/phone/sim.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5d4b03a6/icons/phone/sim.png",
+   "hash": "0bf45453cceef038c4b11b8911bd96d1",
+   "sha256": "dd2a5fada40d400305ed7bb1b868851f5493a7279e07b7fb5c1bebed0fc892c8"
+  },
+  {
+   "name": "sms.png",
+   "size": 418,
+   "path": "files/SAMP/kpui/icons/phone/sms.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ec3899c7/icons/phone/sms.png",
+   "hash": "3de7c2d49442f43438270ba8e504abf2",
+   "sha256": "757410d291b6d92ef676b534b12249f2200260e87156bceef103aeb94fa1b5a6"
+  },
+  {
+   "name": "wallet.png",
+   "size": 356,
+   "path": "files/SAMP/kpui/icons/phone/wallet.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/92dfb3a9/icons/phone/wallet.png",
+   "hash": "f47d39de3fbce99c8ddeb49619084c78",
+   "sha256": "1922526153eb048da3b079f724eb583c7880e9bc325d39f0f6423621f5f92345"
+  },
+  {
+   "name": "sack.png",
+   "size": 3627,
+   "path": "files/SAMP/kpui/icons/sack.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/738c9d47/icons/sack.png",
+   "hash": "0f9e4dc2eb22b01d305a926e97ce7709",
+   "sha256": "295e3dfa6251b3bc746c00ea47e5413b606f59c1420d4779e05f0ede00f98b44"
+  },
+  {
+   "name": "shop_0.png",
+   "size": 3053,
+   "path": "files/SAMP/kpui/icons/shopkit/shop_0.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/98934562/icons/shopkit/shop_0.png",
+   "hash": "c97fdc3fcc95a6038605107a9be44581",
+   "sha256": "c7b760bd09e31f1d49c2b5bf1f656e225939a8ff324e77416dd5bc010c6ea328"
+  },
+  {
+   "name": "shop_1.png",
+   "size": 3315,
+   "path": "files/SAMP/kpui/icons/shopkit/shop_1.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9b97648d/icons/shopkit/shop_1.png",
+   "hash": "77f48d3f8132c58d0f2c3ff6b91ad64d",
+   "sha256": "1ab33c4bde9e6383a7510b2ca8869df97d441cbf6172df6e97a5307eef53cc89"
+  },
+  {
+   "name": "shop_2.png",
+   "size": 10429,
+   "path": "files/SAMP/kpui/icons/shopkit/shop_2.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/24eb682b/icons/shopkit/shop_2.png",
+   "hash": "28c019a9f8a8cb525bc6feee60992cad",
+   "sha256": "a1633aaae55b95044b8644fe4120c5b79069b27945a92283e8b026e3fc185a9a"
+  },
+  {
+   "name": "shop_3.png",
+   "size": 3742,
+   "path": "files/SAMP/kpui/icons/shopkit/shop_3.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/e1aa2cd6/icons/shopkit/shop_3.png",
+   "hash": "859ccfdc4ec4b5ebfc6a1d6b58bf6306",
+   "sha256": "a185507cfc79310ddbbb1b1f109e7842fac5e5e3120361bf01c9d808eca51d0c"
+  },
+  {
+   "name": "shop_4.png",
+   "size": 7598,
+   "path": "files/SAMP/kpui/icons/shopkit/shop_4.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/933af58f/icons/shopkit/shop_4.png",
+   "hash": "20f174ba60a642066c53e057c0fb1005",
+   "sha256": "097045c6d45337fe3198e6dc64aa0ae05c5a976ff57e7c21666d1292dc59f53c"
+  },
+  {
+   "name": "shop_5.png",
+   "size": 4034,
+   "path": "files/SAMP/kpui/icons/shopkit/shop_5.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/bd8dfe41/icons/shopkit/shop_5.png",
+   "hash": "d9fd5c2ee5b5c8c1085c2280da56c707",
+   "sha256": "d95d84fc107074a81e4be15c970c495637d57de78c9ccd7249d51d8459f0302d"
+  },
+  {
+   "name": "tk_car150.png",
+   "size": 26478,
+   "path": "files/SAMP/kpui/icons/shopkit/tk_car150.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/156391d3/icons/shopkit/tk_car150.png",
+   "hash": "bd827a1146c064f3d5aaadc367ffd002",
+   "sha256": "ecf15a1f30b15777534a4a5d5af6d074055b78e48ad2c642fb2ae4d1204b47db"
+  },
+  {
+   "name": "tk_ferrari.png",
+   "size": 14998,
+   "path": "files/SAMP/kpui/icons/shopkit/tk_ferrari.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/68e41760/icons/shopkit/tk_ferrari.png",
+   "hash": "f298a92056120cb6ed762bbb3bed6d62",
+   "sha256": "950b2c9b58f4c0c3691f480d1f45fc09fdd24049d03ac5c86139a15cb1b716ba"
+  },
+  {
+   "name": "tk_gift.png",
+   "size": 21847,
+   "path": "files/SAMP/kpui/icons/shopkit/tk_gift.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5daaa130/icons/shopkit/tk_gift.png",
+   "hash": "fd426787e2718f4969db6e181d257565",
+   "sha256": "e49911d1e75a65a96b51eeabbc2d12525828c41d10a261765bd2249aa4b2618a"
+  },
+  {
+   "name": "top_car.png",
+   "size": 18357,
+   "path": "files/SAMP/kpui/icons/shopkit/top_car.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3d63c744/icons/shopkit/top_car.png",
+   "hash": "c0333752c506b49747bd74cb57a39b8a",
+   "sha256": "bafad7348096fa9c57fd94203706055365e9f89090c0db9983933569b3476e61"
+  },
+  {
+   "name": "top_fashion.png",
+   "size": 13648,
+   "path": "files/SAMP/kpui/icons/shopkit/top_fashion.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/580cf4a7/icons/shopkit/top_fashion.png",
+   "hash": "a6dc2dc31d5a5b84a02417e12124a7b1",
+   "sha256": "b307fa017dab76f125dbbb17d318f10dc54a044b9bd91436427b678b8c20ded6"
+  },
+  {
+   "name": "top_skin.png",
+   "size": 11503,
+   "path": "files/SAMP/kpui/icons/shopkit/top_skin.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/715b86cf/icons/shopkit/top_skin.png",
+   "hash": "03816c373fa0d9d353ba7e7ad7b93887",
+   "sha256": "fd805d5fafadd91ea52917cc733471e9e776280642623759d97fcd0de67d6369"
+  },
+  {
+   "name": "chev.png",
+   "size": 330,
+   "path": "files/SAMP/kpui/icons/tune/chev.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b37f8949/icons/tune/chev.png",
+   "hash": "b01f4fb19fb236c8cf0d312c8ff8439c",
+   "sha256": "ae0960890ef9c0c2f8f0a789ff6917a89a1b8966fb0506208376ca8bb73b0b19"
+  },
+  {
+   "name": "paint.png",
+   "size": 871,
+   "path": "files/SAMP/kpui/icons/tune/paint.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/228728c2/icons/tune/paint.png",
+   "hash": "425723b679c740ee40325743a51192cf",
+   "sha256": "e9c5bea0c3bba285efbb8686cda80bcd749b5cab4e7feaa424b7ee056dd9e794"
+  },
+  {
+   "name": "shirt.png",
+   "size": 827,
+   "path": "files/SAMP/kpui/icons/tune/shirt.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/01e459a6/icons/tune/shirt.png",
+   "hash": "943c9105ef96854db39955b4095b42ae",
+   "sha256": "101755e8833db1627425cfabf876d4530520c65a265c24423cb36b44bf79f405"
+  },
+  {
+   "name": "wrench.png",
+   "size": 871,
+   "path": "files/SAMP/kpui/icons/tune/wrench.png",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/228728c2/icons/tune/wrench.png",
+   "hash": "dc67732f055ad20c017aec2170229f8e",
+   "sha256": "b27a9b895b76d70fcd6654c5e7c6f0010ba89dcec96795556d3c281a67db3e08"
+  },
+  {
+   "name": "inventory.rcss",
+   "size": 19921,
+   "path": "files/SAMP/kpui/inventory.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4ee780be/inventory.rcss",
+   "hash": "6755551617d9e50c46ca768312d478c9",
+   "sha256": "e702434edad6cf5d01c840f3692e11cd907e190eb4ff1fbb4ab0bc1ab185dabb"
+  },
+  {
+   "name": "inventory.rml",
+   "size": 73715,
+   "path": "files/SAMP/kpui/inventory.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d221ddcf/inventory.rml",
+   "hash": "289d732e8c761cc07339ba458f41a8c5",
+   "sha256": "3a4d1844400bf2a84543c8d9c72c49d417957f3caea5a46e68b3263fb8f26364"
+  },
+  {
+   "name": "locker.rcss",
+   "size": 18137,
+   "path": "files/SAMP/kpui/locker.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/0cd1cbdf/locker.rcss",
+   "hash": "72e29deba69a957235e6ef589163a470",
+   "sha256": "32b7353d0644ac64b448b5c524b1e4aced2e666406755bd92ff2b6b9e943336a"
+  },
+  {
+   "name": "locker.rml",
+   "size": 117019,
+   "path": "files/SAMP/kpui/locker.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9cb14d65/locker.rml",
+   "hash": "db6c7cd31f011beefb238afd9e505ad8",
+   "sha256": "2201132b988115ca90c847da9f0054dbe4bde97502e795ce698fa6d689f9ca97"
+  },
+  {
+   "name": "login.rcss",
+   "size": 7327,
+   "path": "files/SAMP/kpui/login.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/430fbd9f/login.rcss",
+   "hash": "e69a410ec0f5cfd4789a51dc4cdfc6a7",
+   "sha256": "990bfca5720704c6dd2626e4d3de4c26d9ced5c077e0759498dcaa3705750697"
+  },
+  {
+   "name": "login.rml",
+   "size": 5068,
+   "path": "files/SAMP/kpui/login.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/22e383e5/login.rml",
+   "hash": "31556bc5588d01f63c6a96a4d4e4292b",
+   "sha256": "757a8cfedbff728374ad48e3446c5e13e2fbe37e38c29012a5cd2e3c8164c754"
+  },
+  {
+   "name": "lucky.rcss",
+   "size": 13259,
+   "path": "files/SAMP/kpui/lucky.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/2981f416/lucky.rcss",
+   "hash": "eb19366f18cd078709eb2e5abf246d8b",
+   "sha256": "96f4cc4ac9a0a05fbddd48f5f0fd0a9265a46ed00159d7f4e51bcc7866b84fad"
+  },
+  {
+   "name": "lucky.rml",
+   "size": 6547,
+   "path": "files/SAMP/kpui/lucky.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/ecd75548/lucky.rml",
+   "hash": "8a5bce3015783243c79d3462d9f980be",
+   "sha256": "bc13692ee490a5d8507c890dd02218e056b3cd1b400e1df61a2f14ceeb2deb01"
+  },
+  {
+   "name": "pass.rcss",
+   "size": 20288,
+   "path": "files/SAMP/kpui/pass.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b741afed/pass.rcss",
+   "hash": "b9411645ddf2028b34ac8e1374fabe18",
+   "sha256": "89d3174017bbd99b0f14bf3d345a0284beb28e5db1fbf58b3275105739712648"
+  },
+  {
+   "name": "pass.rml",
+   "size": 18792,
+   "path": "files/SAMP/kpui/pass.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/97517c9b/pass.rml",
+   "hash": "516ee12ce926462d5b461fc4ee06c04c",
+   "sha256": "dfa3ee33cfa657d659857f57c98cbe5e472b76bb893ef14f0868a3f1d6e9abef"
+  },
+  {
+   "name": "phone.rcss",
+   "size": 13946,
+   "path": "files/SAMP/kpui/phone.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b5718ca8/phone.rcss",
+   "hash": "1e6c1fc19d33b985da1634d22143e55e",
+   "sha256": "9d82ae857b6001f3acdb5e61bb5d5ef541605407ef46d8eaa98a1b30299147f3"
+  },
+  {
+   "name": "phone.rml",
+   "size": 5156,
+   "path": "files/SAMP/kpui/phone.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/a1532a44/phone.rml",
+   "hash": "b99ce941141fadf4d6d24e8de4952688",
+   "sha256": "a084cf4b3bea1c9b8cfed4e644a4dabd5d714f1d380d71a3eafc686a2391bdbf"
+  },
+  {
+   "name": "score.rcss",
+   "size": 12066,
+   "path": "files/SAMP/kpui/score.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/1b525507/score.rcss",
+   "hash": "ac694cd9f961198f0ba892dde2d765ba",
+   "sha256": "ecbd9530d0f1923d024df9ab2c1fecbcb0a24c57c5f647309e9bbcaacc7a1561"
+  },
+  {
+   "name": "score.rml",
+   "size": 3967,
+   "path": "files/SAMP/kpui/score.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/f637c9ee/score.rml",
+   "hash": "c59aa0c145268f30b8a3d6b73ef941a7",
+   "sha256": "b34304e53f72c89d014b34f3b06d1c0d170285de96e659345e9523d88ccd7056"
+  },
+  {
+   "name": "shopkit.rcss",
+   "size": 31622,
+   "path": "files/SAMP/kpui/shopkit.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/35b06a4f/shopkit.rcss",
+   "hash": "6f374881b8177c5d81df92e9fde55a3b",
+   "sha256": "a116a4cba2b4381443dc5b1a594ecc640ef939f37fdbab1361d24addd5f6cf9f"
+  },
+  {
+   "name": "shopmenu.rml",
+   "size": 8895,
+   "path": "files/SAMP/kpui/shopmenu.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9c71e2e9/shopmenu.rml",
+   "hash": "a1bc082e4a83115498e2f08a68b4191c",
+   "sha256": "4b847c2981f5ef7a96d1bfa773d167a1deb65dc79fd4b875290ae169909cb091"
+  },
+  {
+   "name": "skinshop.rcss",
+   "size": 8901,
+   "path": "files/SAMP/kpui/skinshop.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/69c4cdf7/skinshop.rcss",
+   "hash": "3d5ac13fa095f8f621df1304636cff70",
+   "sha256": "d7e2082f4632686189fbbd50b11bc3e2540bf2d8cffe8c9f9a2c283c43415f5d"
+  },
+  {
+   "name": "skinshop.rml",
+   "size": 5167,
+   "path": "files/SAMP/kpui/skinshop.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/82ea696f/skinshop.rml",
+   "hash": "c4b69ffccd8f5777f3e2975751ffe95c",
+   "sha256": "b5b03d691612b7bdf6d8b90480847af4db6c60361639dc88ccee139f0457e6ae"
+  },
+  {
+   "name": "stall.rcss",
+   "size": 33798,
+   "path": "files/SAMP/kpui/stall.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/95ed959f/stall.rcss",
+   "hash": "c98d1c0edb70c522796eedf8b2afbebd",
+   "sha256": "4a57dc681a7ca334ca073c29d6341ddd42ab8215a784c2adfc15acf021d2b99a"
+  },
+  {
+   "name": "stall.rml",
+   "size": 93719,
+   "path": "files/SAMP/kpui/stall.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/10bc2f88/stall.rml",
+   "hash": "94d56ac9a8810c0993185b64e2b214c1",
+   "sha256": "20e2f04ea2031d27a9c7c8619446391dd00f2732fca33f33a7b9e2b39fea06e9"
+  },
+  {
+   "name": "stall_shop.rml",
+   "size": 19874,
+   "path": "files/SAMP/kpui/stall_shop.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6eb3c359/stall_shop.rml",
+   "hash": "7ae3d0fc0a3805c169cc6060dc43cb5e",
+   "sha256": "05a432b7a466e20199243b047407785e6d0fe5d76bb8cfe0a4f87ff13f205e9e"
+  },
+  {
+   "name": "tickets.rcss",
+   "size": 13531,
+   "path": "files/SAMP/kpui/tickets.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/94a134c3/tickets.rcss",
+   "hash": "c51ee88abe58da54e7b4548101e4abeb",
+   "sha256": "451fb99889f265981334419c37efd597821518480c6a28dda802539afa29c0c8"
+  },
+  {
+   "name": "tickets.rml",
+   "size": 7813,
+   "path": "files/SAMP/kpui/tickets.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/93e48033/tickets.rml",
+   "hash": "67777d5cb31009ef8edc3a8a195067fe",
+   "sha256": "02b10db65783966dbde747d483dd7bcf132c0cd08eea7b3711e5b73d73658610"
+  },
+  {
+   "name": "token.rml",
+   "size": 19875,
+   "path": "files/SAMP/kpui/token.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9ae251c4/token.rml",
+   "hash": "2d9fcb3241ac5f7b9f468a59eea4e60e",
+   "sha256": "1a6da74b5f2d599768fe9c51c6227991449dd933fa0f05ff8d767230caffb516"
+  },
+  {
+   "name": "topdonate.rml",
+   "size": 4412,
+   "path": "files/SAMP/kpui/topdonate.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/cb1c364f/topdonate.rml",
+   "hash": "a353e69ec7ea30f3bc5bbe9e295209dd",
+   "sha256": "7213a2fa4dde717362dde9f9025a182bf07fe321156ba032ee196b27f21236a4"
+  },
+  {
+   "name": "trade.rcss",
+   "size": 19417,
+   "path": "files/SAMP/kpui/trade.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/4db14d44/trade.rcss",
+   "hash": "0ea1cea04026a65d6e5945cd4eb1a974",
+   "sha256": "b087f03da4950a643e31ae5be45f76f43b9d7c46fe70fc0a7ac97c5fedf0a5f9"
+  },
+  {
+   "name": "trade.rml",
+   "size": 47680,
+   "path": "files/SAMP/kpui/trade.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/8e439216/trade.rml",
+   "hash": "4b4132f9a803beae00b62125b814e3ea",
+   "sha256": "5f79457952bf74e287d8055915c1d6b90ff3137531e591b4367bce34eaccf480"
+  },
+  {
+   "name": "tune.rcss",
+   "size": 6406,
+   "path": "files/SAMP/kpui/tune.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/b22d1732/tune.rcss",
+   "hash": "13e3358cd512097a7eed0b9b3bf2065f",
+   "sha256": "6b6527583286c52b3ebd565dc1a0c20326049fffeaf86e9ee007199ec6ca2d09"
+  },
+  {
+   "name": "tune.rml",
+   "size": 2599,
+   "path": "files/SAMP/kpui/tune.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/d6c0a22d/tune.rml",
+   "hash": "9ae2fbc9bfbf3d33bea66c398f0579e3",
+   "sha256": "9823eb375a5567daf37c106ecfe985555a51c0aa6473d222e43e86676fb95d67"
+  },
+  {
+   "name": "weapon.rcss",
+   "size": 30455,
+   "path": "files/SAMP/kpui/weapon.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/6997fee1/weapon.rcss",
+   "hash": "a63925fb4d6a6d56d645eb675de4cb7b",
+   "sha256": "34632276eefed9fb19e43f71c4ae3e2e24b0ddc20edc49fce56a82e36fe9fefe"
+  },
+  {
+   "name": "weapon.rml",
+   "size": 14487,
+   "path": "files/SAMP/kpui/weapon.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/9d619fa3/weapon.rml",
+   "hash": "de1a0e8cb5f67bb42191ae52d0b848b2",
+   "sha256": "c42f14e5cfea114ff8d0ec00ecf53b643755ef3f2202bf16d56ed836ebc11d3d"
+  },
+  {
+   "name": "worldmap.rcss",
+   "size": 15329,
+   "path": "files/SAMP/kpui/worldmap.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/edf8082c/worldmap.rcss",
+   "hash": "810a4f21b934b6a68c828b3644ef95cb",
+   "sha256": "a7db274aa9be00c5afe2380bbf70b48a8d44c6dc1350b31b158c0ebd2f789920"
+  },
+  {
+   "name": "worldmap.rml",
+   "size": 15450,
+   "path": "files/SAMP/kpui/worldmap.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/5192dfe2/worldmap.rml",
+   "hash": "6b560a51523e3745032e9efd4e7d27e0",
+   "sha256": "8582e2969938c156639629d2dbdedddb6b90eb33a835211ad8feafa8fc963014"
+  },
+  {
+   "name": "ymenu.rcss",
+   "size": 21306,
+   "path": "files/SAMP/kpui/ymenu.rcss",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/3a47a6d3/ymenu.rcss",
+   "hash": "0f482716ff46ae603fa4ded80831fbd6",
+   "sha256": "dc933cec121769cc2b8de8890f3530fcda1f6f9db39a0208f907f8167c5772be"
+  },
+  {
+   "name": "ymenu.rml",
+   "size": 8419,
+   "path": "files/SAMP/kpui/ymenu.rml",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/52e50627/ymenu.rml",
+   "hash": "3759b2f64cfcbc4d3b2c2c8d4c1da527",
+   "sha256": "16002f526e4bca758d64b12d4384f17735c7fb5f96f2f796fb52b82153d1ce51"
+  },
+  {
+   "name": "stamps.txt",
+   "size": 14223,
+   "path": "files/SAMP/kpui/stamps.txt",
+   "url": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/stamps/4414b8ef8605776f.txt",
+   "hash": "0d85a3d9e8e071fa44469c0be363ad7c",
+   "sha256": "4414b8ef8605776f4cd05252e244fe9671dbed6e2969cfd52344897e8fe1ee0e"
+  }
+ ]
+}
