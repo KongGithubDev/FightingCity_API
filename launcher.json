@@ -10,7 +10,9 @@
       "mobileManifestUrl": "https://github.com/KongGithubDev/FightingCity_API/releases/download/depot-mobile-Fighting-City-20261014T151141Z/manifest.json",
       "mobileManifestId": "3dcce16db1d2aa4a42d50b01e2b4718303c83afcb7553b34ddd5205765ddc509",
       "mobileManifestSha256": "86887820659c8bee277ab9b3f72cab23a1d597d1b2138b741353d2a41958debe",
-      "mobileInstallSize": 1549072460
+      "mobileInstallSize": 1549072460,
+      "mobileFilesUrl": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/files.json",
+      "uiBundleUrl": "https://raw.githubusercontent.com/KongGithubDev/FightingCity_API/main/kpui/"
     }
   ]
 }
