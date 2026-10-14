@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "Fighting City",
+      "serverIp": "168.222.20.94",
+      "serverPort": 7777,
+      "mobileApkVersion": 181,
+      "mobileApkUrl": "https://github.com/KongGithubDev/FightingCity_API/releases/download/apk-fighting-181/FightingCity.apk",
+      "mobileApkSha256": "91efd5e0d94d00070aaf9c476c9071b1c23801b95ee9370214a366e8ea9dcab9"
+    }
+  ]
+}
